@@ -6,22 +6,6 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import datetime, timedelta
 
-def remover():
-    import os
-    
-    # Lista dei file da eliminare
-    files_to_delete = ["world.m3u8", "channels_italy.m3u8", "eventi.m3u8", "eventi.xml"]
-    
-    for filename in files_to_delete:
-        if os.path.exists(filename):
-            try:
-                os.remove(filename)
-                print(f"File eliminato: {filename}")
-            except Exception as e:
-                print(f"Errore durante l'eliminazione di {filename}: {e}")
-        else:
-            print(f"File non trovato: {filename}")
-
 # Funzione per il primo script (merger_playlist.py)
 def merger_playlist():
     # Codice del primo script qui
@@ -850,6 +834,23 @@ def world_channels_generator():
     
     if __name__ == "__main__":
         main()
+
+def remover():
+    import os
+    
+    # Lista dei file da eliminare
+    files_to_delete = ["world.m3u8", "channels_italy.m3u8", "eventi.m3u8", "eventi.xml"]
+    
+    for filename in files_to_delete:
+        if os.path.exists(filename):
+            try:
+                os.remove(filename)
+                print(f"File eliminato: {filename}")
+            except Exception as e:
+                print(f"Errore durante l'eliminazione di {filename}: {e}")
+        else:
+            print(f"File non trovato: {filename}")
+
 # Funzione principale che esegue tutti gli script
 def run_all_scripts():
     try:
