@@ -895,6 +895,7 @@ def run_all_scripts():
         merger_playlist()
     except Exception as e:
         print(f"Errore durante l'esecuzione di merger_playlist: {e}")
+        return
 
     try:
         remover()
