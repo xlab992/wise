@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="----- Basketball -----" group-title="Eventi", ----- Basketball -----
+http://example.com/Basketball.m3u8
+#EXTINF:-1 tvg-id="879" tvg-name="Lega A : Trento vs Sassari - 26/04/2025 19:50" group-title="Eventi" tvg-logo="", Lega A : Trento vs Sassari - 26/04/2025 19:50
+https://windnew.newkso.ru/wind/premium879/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Rugby Union -----" group-title="Eventi", ----- Rugby Union -----
+http://example.com/Rugby_Union.m3u8
+#EXTINF:-1 tvg-id="460" tvg-name="United Rugby Championship : Zebre vs Edinburgh - 26/04/2025 20:35" group-title="Eventi" tvg-logo="", United Rugby Championship : Zebre vs Edinburgh - 26/04/2025 20:35
+https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
