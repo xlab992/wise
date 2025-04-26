@@ -34,7 +34,7 @@ def merger_playlist():
             playlist_lines = playlist.splitlines()
             for i in range(len(playlist_lines)):
                 if '.m3u8' in playlist_lines[i]:
-                    playlist_lines[i] += ""
+                    playlist_lines[i] += "&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz"
             playlist = '\n'.join(playlist_lines)
     
         # Escludi canali con un determinato group-title (se richiesto)
