@@ -1,5 +1,47 @@
 {
     "Sunday 27th April 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "Rising Star Promotions : Kurt Scoby vs Jesus Vasquez Jr",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Lucas Oil Late Models Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "FlorRacing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Kokomo Grand Prix at Kokomo Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FlorRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "TNA: Rebellion 2025 (Total Nonstop Action Wrestling) PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "151"
+                    }
+                ]
+            }
+        ],
         "Tv Shows</span>": [
             {
                 "time": "12:00",
@@ -6271,6 +6313,10 @@
                     {
                         "channel_name": "Arena Sport 6 Serbia",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
                     }
                 ]
             },
@@ -8563,6 +8609,10 @@
                         "channel_id": "584"
                     },
                     {
+                        "channel_name": "Match! Football 1 Russia",
+                        "channel_id": "136"
+                    },
+                    {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
                     },
@@ -8827,6 +8877,10 @@
                         "channel_id": "799"
                     },
                     {
+                        "channel_name": "Match! Football 2 Russia",
+                        "channel_id": "137"
+                    },
+                    {
                         "channel_name": "DAZN Eleven 1 Portugal",
                         "channel_id": "455"
                     },
@@ -8969,6 +9023,10 @@
                     {
                         "channel_name": "Cytavision Sports 4 Cyprus",
                         "channel_id": "914"
+                    },
+                    {
+                        "channel_name": "Match! Football 1 Russia",
+                        "channel_id": "136"
                     },
                     {
                         "channel_name": "Digi Sport 3 Romania",
@@ -9715,6 +9773,10 @@
                 "event": "VTB United League : Saratov vs Unics Kazan",
                 "channels": [
                     {
+                        "channel_name": "Match Igra Russia",
+                        "channel_id": "23"
+                    },
+                    {
                         "channel_name": "Arena Sport 5 Serbia",
                         "channel_id": "12"
                     }
@@ -9790,6 +9852,10 @@
                 "time": "17:00",
                 "event": "VTB United League : Nizhny Novgorod vs CSKA Moscow",
                 "channels": [
+                    {
+                        "channel_name": "Match Igra Russia",
+                        "channel_id": "23"
+                    },
                     {
                         "channel_name": "Arena Premium 3 Serbia",
                         "channel_id": "139"
