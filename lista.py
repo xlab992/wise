@@ -17,10 +17,10 @@ def merger_playlist():
     import os
     
     # URL delle playlist M3U8, aggiungi MFP (se vuoi la lista gia proxyta) prima del link e cambia nome e repo nei link
-    url1 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/channels_italy.m3u8"
-    url2 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"
+    url1 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/channels_italy.m3u8"
+    url2 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"
     url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"
-    url4 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/world.m3u8"
+    url4 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/world.m3u8"
     
     # Funzione per scaricare una playlist
     def download_playlist(url, append_params=False, exclude_group_title=None):
@@ -742,7 +742,7 @@ def vavoo_italy_channels():
                     tvg_id = channel_id_map.get(normalized_name, "")
                     tvg_logo = logos_dict.get(tvg_name_cleaned.lower(), DEFAULT_TVG_ICON)
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name_cleaned}" tvg-logo="{tvg_logo}" group-title="{category}", {name}\n')
-                    f.write(f"{url}\n\n")
+                    f.write(f"https://nzo66-piccolotest.hf.space/proxy/m3u?url={url}\n\n")
     
     def main():
         epg_root = fetch_epg(EPG_FILE)
