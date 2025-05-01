@@ -1,4 +1,4 @@
-dopo aver fatto il fork qi questa repo,
+dopo aver fatto il fork di questa repo,
 per prima cosa modifica il file lista.py,
 modificare url1, url2, url4 del codice 
 mettendo il link del tuo mediaflow-proxy
