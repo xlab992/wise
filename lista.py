@@ -17,10 +17,10 @@ def merger_playlist():
     import os
     
     # URL delle playlist M3U8, aggiungi MFP (se vuoi la lista gia proxyta) prima del link e cambia nome e repo nei link
-    url1 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/channels_italy.m3u8"
-    url2 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"
+    url1 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/channels_italy.m3u8"
+    url2 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"
     url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"
-    url4 = "https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/world.m3u8"
+    url4 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/world.m3u8"
     
     # Funzione per scaricare una playlist
     def download_playlist(url, append_params=False, exclude_group_title=None):
