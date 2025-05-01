@@ -59,10 +59,10 @@ def merger_playlist():
     lista = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4
     
     # Aggiungi il nuovo #EXTM3U tvg-url all'inizio della playlist combinata
-    lista = '#EXTM3U\n' + lista
+    lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/tv/refs/heads/main/epg.xml"\n' + lista
     
     # Percorso completo del file di output
-    output_filename = os.path.join(script_directory, "lista.m3u8")
+    output_filename = os.path.join(script_directory, "lista.m3u")
     
     # Salva la playlist combinata
     with open(output_filename, 'w') as file:
