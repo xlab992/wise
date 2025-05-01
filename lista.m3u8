@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://vavoo.to/play/1225653759/index.m3u8
+https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-https://vavoo.to/play/875922788/index.m3u8
+https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 https://vavoo.to/play/246253359/index.m3u8
@@ -19,10 +19,10 @@ https://vavoo.to/play/1324733956/index.m3u8
 https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-https://vavoo.to/play/2179822223/index.m3u8
+https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-https://vavoo.to/play/4241820180/index.m3u8
+https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 https://vavoo.to/play/2049087681/index.m3u8
@@ -46,16 +46,16 @@ https://vavoo.to/play/374675593/index.m3u8
 https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://vavoo.to/play/2835672487/index.m3u8
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
 https://vavoo.to/play/1925964148/index.m3u8
 
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
+https://vavoo.to/play/2835672487/index.m3u8
+
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
-https://vavoo.to/play/2239645272/index.m3u8
+https://vavoo.to/play/2272923972/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
-https://vavoo.to/play/2272923972/index.m3u8
+https://vavoo.to/play/2239645272/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
 https://vavoo.to/play/2828455552/index.m3u8
@@ -91,10 +91,10 @@ https://vavoo.to/play/1890950169/index.m3u8
 https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET
-https://vavoo.to/play/3134481201/index.m3u8
+https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET (2)
-https://vavoo.to/play/1230338185/index.m3u8
+https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset", 27 TWENTY SEVEN
 https://vavoo.to/play/608774683/index.m3u8
@@ -145,16 +145,16 @@ https://vavoo.to/play/3538009430/index.m3u8
 https://vavoo.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2
-https://vavoo.to/play/2911178456/index.m3u8
-
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
 https://vavoo.to/play/1376440573/index.m3u8
 
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
+https://vavoo.to/play/2911178456/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-https://vavoo.to/play/3481346857/index.m3u8
+https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
-https://vavoo.to/play/3448075317/index.m3u8
+https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
 https://vavoo.to/play/2317684453/index.m3u8
@@ -193,10 +193,10 @@ https://vavoo.to/play/3007400791/index.m3u8
 https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-https://vavoo.to/play/449990998/index.m3u8
+https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-https://vavoo.to/play/1665920101/index.m3u8
+https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 https://vavoo.to/play/4246774056/index.m3u8
@@ -208,10 +208,10 @@ https://vavoo.to/play/3093535330/index.m3u8
 https://vavoo.to/play/1989309231/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF
-https://vavoo.to/play/729945219/index.m3u8
+https://vavoo.to/play/3897711086/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF (2)
-https://vavoo.to/play/3897711086/index.m3u8
+https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport", SKY SPORT MAX
 https://vavoo.to/play/2066326916/index.m3u8
@@ -238,10 +238,10 @@ https://vavoo.to/play/2100771782/index.m3u8
 https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO
-https://vavoo.to/play/210669162/index.m3u8
+https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO (2)
-https://vavoo.to/play/3192996672/index.m3u8
+https://vavoo.to/play/210669162/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORTS F1
 https://vavoo.to/play/2289038972/index.m3u8
@@ -322,10 +322,10 @@ https://vavoo.to/play/1482866609/index.m3u8
 https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
-https://vavoo.to/play/3812796171/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://vavoo.to/play/3525837057/index.m3u8
@@ -340,19 +340,19 @@ https://vavoo.to/play/500203271/index.m3u8
 https://vavoo.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE
-https://vavoo.to/play/1228534500/index.m3u8
+https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE (2)
-https://vavoo.to/play/2330574729/index.m3u8
+https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA DUE +24
 https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://vavoo.to/play/415795144/index.m3u8
+https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
-https://vavoo.to/play/3216516117/index.m3u8
+https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://vavoo.to/play/2890008905/index.m3u8
@@ -361,10 +361,10 @@ https://vavoo.to/play/2890008905/index.m3u8
 https://vavoo.to/play/1281264885/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE (2)
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
 https://vavoo.to/play/1759625738/index.m3u8
@@ -412,10 +412,10 @@ https://vavoo.to/play/525374356/index.m3u8
 https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
-https://vavoo.to/play/153693434/index.m3u8
+https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3 (2)
-https://vavoo.to/play/573618724/index.m3u8
+https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
 https://vavoo.to/play/2416993844/index.m3u8
@@ -436,10 +436,10 @@ https://vavoo.to/play/3939513684/index.m3u8
 https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7
-https://vavoo.to/play/3618643172/index.m3u8
+https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7 (2)
-https://vavoo.to/play/4238969402/index.m3u8
+https://vavoo.to/play/3618643172/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
 https://vavoo.to/play/1440779061/index.m3u8
@@ -448,10 +448,10 @@ https://vavoo.to/play/1440779061/index.m3u8
 https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
-https://vavoo.to/play/1753260677/index.m3u8
+https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9 (2)
-https://vavoo.to/play/1134113883/index.m3u8
+https://vavoo.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV", SKY SERIE
 https://vavoo.to/play/836680112/index.m3u8
@@ -487,10 +487,10 @@ https://vavoo.to/play/2418148449/index.m3u8
 https://vavoo.to/play/2802329064/index.m3u8
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV
-https://vavoo.to/play/3938501125/index.m3u8
+https://vavoo.to/play/2265727942/index.m3u8
 
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV (2)
-https://vavoo.to/play/2265727942/index.m3u8
+https://vavoo.to/play/3938501125/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING
 https://vavoo.to/play/3022771961/index.m3u8
@@ -562,10 +562,10 @@ https://vavoo.to/play/1574591400/index.m3u8
 https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-https://vavoo.to/play/2134724757/index.m3u8
+https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
-https://vavoo.to/play/317837654/index.m3u8
+https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
 https://vavoo.to/play/1735702308/index.m3u8
@@ -580,10 +580,10 @@ https://vavoo.to/play/3229664409/index.m3u8
 https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
-https://vavoo.to/play/1902695925/index.m3u8
+https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE (2)
-https://vavoo.to/play/1806815496/index.m3u8
+https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari", SKY DOCUMENTARIES
 https://vavoo.to/play/464281981/index.m3u8
@@ -604,10 +604,10 @@ https://vavoo.to/play/2542531195/index.m3u8
 https://vavoo.to/play/1585005860/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV
-https://vavoo.to/play/3802167244/index.m3u8
+https://vavoo.to/play/963607327/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV (2)
-https://vavoo.to/play/963607327/index.m3u8
+https://vavoo.to/play/3802167244/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica", EURO INDIE MUSIC CHART TV
 https://vavoo.to/play/3569731325/index.m3u8
@@ -619,10 +619,10 @@ https://vavoo.to/play/651388134/index.m3u8
 https://vavoo.to/play/32417864/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica", KISS KISS
-https://vavoo.to/play/950030926/index.m3u8
+https://vavoo.to/play/3815726749/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica", KISS KISS (2)
-https://vavoo.to/play/3815726749/index.m3u8
+https://vavoo.to/play/950030926/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-italia-it.png?raw=true" group-title="Musica", KISS KISS ITALIA
 https://vavoo.to/play/1370869299/index.m3u8
@@ -748,10 +748,10 @@ https://vavoo.to/play/1527236924/index.m3u8
 https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://vavoo.to/play/3743894403/index.m3u8
+https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://vavoo.to/play/2719953688/index.m3u8
+https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://vavoo.to/play/62558606/index.m3u8
@@ -823,10 +823,10 @@ https://vavoo.to/play/2982550433/index.m3u8
 https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK
-https://vavoo.to/play/2767861049/index.m3u8
+https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
-https://vavoo.to/play/2820683351/index.m3u8
+https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 https://vavoo.to/play/2179686828/index.m3u8
@@ -877,10 +877,10 @@ https://vavoo.to/play/803540254/index.m3u8
 https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5
-https://vavoo.to/play/1425667375/index.m3u8
+https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5 (2)
-https://vavoo.to/play/84139639/index.m3u8
+https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro", LA 7
 https://vavoo.to/play/2143522071/index.m3u8
@@ -907,10 +907,10 @@ https://vavoo.to/play/2835333400/index.m3u8
 https://vavoo.to/play/3648324945/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND (2)
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro", ONDA NOVARA TV
 https://vavoo.to/play/3134124967/index.m3u8
@@ -961,10 +961,10 @@ https://vavoo.to/play/2952884641/index.m3u8
 https://vavoo.to/play/1232565681/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME
-https://vavoo.to/play/2251241999/index.m3u8
+https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME (2)
-https://vavoo.to/play/1574975196/index.m3u8
+https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro", REGGIO TV
 https://vavoo.to/play/2165549789/index.m3u8
@@ -1030,10 +1030,10 @@ https://vavoo.to/play/2895549551/index.m3u8
 https://vavoo.to/play/2002360508/index.m3u8
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO
-https://vavoo.to/play/2130523218/index.m3u8
+https://vavoo.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO (2)
-https://vavoo.to/play/322024849/index.m3u8
+https://vavoo.to/play/2130523218/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro", STAR COMEDY
 https://vavoo.to/play/1512072384/index.m3u8
@@ -1236,10 +1236,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 
 #EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
 http://example.com/Soccer.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
-#EXTINF:-1 tvg-id="69" tvg-name="UEFA Champions League : Barcelona vs Internazionale - 30/04/2025 21:00" group-title="Eventi" tvg-logo="", UEFA Champions League : Barcelona vs Internazionale - 30/04/2025 21:00
-https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
-#EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
-http://example.com/Soccer.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
 #EXTINF:-1 tvg-id="1" tvg-name="Italy - Serie B : Juve Stabia vs Catanzaro - 01/05/2025 12:30" group-title="Eventi" tvg-logo="", Italy - Serie B : Juve Stabia vs Catanzaro - 01/05/2025 12:30
 https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
 #EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie B : Cosenza vs Bari 1908 - 01/05/2025 15:00" group-title="Eventi" tvg-logo="", Italy - Serie B : Cosenza vs Bari 1908 - 01/05/2025 15:00
@@ -1248,8 +1244,6 @@ https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla/5.0 (Win
 https://windnew.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
 #EXTINF:-1 tvg-id="68" tvg-name="Italy - Serie B : Modena vs Reggiana - 01/05/2025 15:00" group-title="Eventi" tvg-logo="", Italy - Serie B : Modena vs Reggiana - 01/05/2025 15:00
 https://windnew.newkso.ru/wind/premium68/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
-#EXTINF:-1 tvg-id="69" tvg-name="Italy - Serie B : Palermo vs Südtirol - 01/05/2025 15:00" group-title="Eventi" tvg-logo="", Italy - Serie B : Palermo vs Südtirol - 01/05/2025 15:00
-https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
 #EXTINF:-1 tvg-id="76" tvg-name="Italy - Serie B : Pisa vs Frosinone - 01/05/2025 15:00" group-title="Eventi" tvg-logo="", Italy - Serie B : Pisa vs Frosinone - 01/05/2025 15:00
 https://windnew.newkso.ru/wind/premium76/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz
 #EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie B : Sampdoria vs Cremonese - 01/05/2025 15:00" group-title="Eventi" tvg-logo="", Italy - Serie B : Sampdoria vs Cremonese - 01/05/2025 15:00
@@ -2007,10 +2001,10 @@ https://vavoo.to/play/3227015820/index.m3u8
 https://vavoo.to/play/932736266/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://vavoo.to/play/2281185372/index.m3u8
+https://vavoo.to/play/891809142/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://vavoo.to/play/891809142/index.m3u8
+https://vavoo.to/play/2281185372/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" group-title="Albania", EUROSPORT 2 (1)
 https://vavoo.to/play/1882724314/index.m3u8
@@ -2340,10 +2334,10 @@ https://vavoo.to/play/1558588609/index.m3u8
 https://vavoo.to/play/1595921758/index.m3u8
 
 #EXTINF:-1 tvg-name="JUNIOR" group-title="Albania", JUNIOR
-https://vavoo.to/play/218312118/index.m3u8
+https://vavoo.to/play/400173387/index.m3u8
 
 #EXTINF:-1 tvg-name="JUNIOR" group-title="Albania", JUNIOR
-https://vavoo.to/play/400173387/index.m3u8
+https://vavoo.to/play/218312118/index.m3u8
 
 #EXTINF:-1 tvg-name="JUNIOR TV (1)" group-title="Albania", JUNIOR TV (1)
 https://vavoo.to/play/2349827290/index.m3u8
@@ -2361,22 +2355,22 @@ https://vavoo.to/play/3221286008/index.m3u8
 https://vavoo.to/play/1914712168/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
-https://vavoo.to/play/4241027656/index.m3u8
-
-#EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
 https://vavoo.to/play/4212188508/index.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
-https://vavoo.to/play/3007582774/index.m3u8
+#EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
+https://vavoo.to/play/4241027656/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
 https://vavoo.to/play/2556265704/index.m3u8
 
-#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
-https://vavoo.to/play/2555180624/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
+https://vavoo.to/play/3007582774/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
 https://vavoo.to/play/2677334340/index.m3u8
+
+#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
+https://vavoo.to/play/2555180624/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7 (1)" group-title="Albania", KANALI 7 (1)
 https://vavoo.to/play/271539603/index.m3u8
@@ -2400,10 +2394,10 @@ https://vavoo.to/play/532993341/index.m3u8
 https://vavoo.to/play/2085629786/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA" group-title="Albania", KLAN KOSOVA
-https://vavoo.to/play/4029432528/index.m3u8
+https://vavoo.to/play/1123258362/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA" group-title="Albania", KLAN KOSOVA
-https://vavoo.to/play/1123258362/index.m3u8
+https://vavoo.to/play/4029432528/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA (1)" group-title="Albania", KLAN KOSOVA (1)
 https://vavoo.to/play/3040065660/index.m3u8
@@ -2553,10 +2547,10 @@ https://vavoo.to/play/3016844833/index.m3u8
 https://vavoo.to/play/3726501858/index.m3u8
 
 #EXTINF:-1 tvg-name="LIVING" group-title="Albania", LIVING
-https://vavoo.to/play/2263551325/index.m3u8
+https://vavoo.to/play/2620524960/index.m3u8
 
 #EXTINF:-1 tvg-name="LIVING" group-title="Albania", LIVING
-https://vavoo.to/play/2620524960/index.m3u8
+https://vavoo.to/play/2263551325/index.m3u8
 
 #EXTINF:-1 tvg-name="LUGINA ISLAM 2 (1)" group-title="Albania", LUGINA ISLAM 2 (1)
 https://vavoo.to/play/2414744747/index.m3u8
@@ -2631,10 +2625,10 @@ https://vavoo.to/play/3383574772/index.m3u8
 https://vavoo.to/play/3663179118/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Albania", NAT GEO
-https://vavoo.to/play/3937938623/index.m3u8
+https://vavoo.to/play/829890668/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Albania", NAT GEO
-https://vavoo.to/play/829890668/index.m3u8
+https://vavoo.to/play/3937938623/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Albania", NAT GEO WILD
 https://vavoo.to/play/1793673705/index.m3u8
@@ -2712,10 +2706,10 @@ https://vavoo.to/play/1631488945/index.m3u8
 https://vavoo.to/play/2428038388/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV" group-title="Albania", PEACE TV
-https://vavoo.to/play/3099241224/index.m3u8
+https://vavoo.to/play/3210918940/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV" group-title="Albania", PEACE TV
-https://vavoo.to/play/3210918940/index.m3u8
+https://vavoo.to/play/3099241224/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV (1)" group-title="Albania", PEACE TV (1)
 https://vavoo.to/play/922818527/index.m3u8
@@ -2802,10 +2796,10 @@ https://vavoo.to/play/51277531/index.m3u8
 https://vavoo.to/play/3927742558/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4" group-title="Albania", RTK 4
-https://vavoo.to/play/3705811720/index.m3u8
+https://vavoo.to/play/2972627659/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4" group-title="Albania", RTK 4
-https://vavoo.to/play/2972627659/index.m3u8
+https://vavoo.to/play/3705811720/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4 (1)" group-title="Albania", RTK 4 (1)
 https://vavoo.to/play/1480344654/index.m3u8
@@ -2847,10 +2841,10 @@ https://vavoo.to/play/4123779292/index.m3u8
 https://vavoo.to/play/34330458/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH FILM" group-title="Albania", RTSH FILM
-https://vavoo.to/play/2756781816/index.m3u8
+https://vavoo.to/play/2790617572/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH FILM" group-title="Albania", RTSH FILM
-https://vavoo.to/play/2790617572/index.m3u8
+https://vavoo.to/play/2756781816/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH GJIROKASTRA" group-title="Albania", RTSH GJIROKASTRA
 https://vavoo.to/play/1779753158/index.m3u8
@@ -2859,10 +2853,10 @@ https://vavoo.to/play/1779753158/index.m3u8
 https://vavoo.to/play/2315806074/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KORCA" group-title="Albania", RTSH KORCA
-https://vavoo.to/play/3143932250/index.m3u8
+https://vavoo.to/play/3082721844/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KORCA" group-title="Albania", RTSH KORCA
-https://vavoo.to/play/3082721844/index.m3u8
+https://vavoo.to/play/3143932250/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KUVEND" group-title="Albania", RTSH KUVEND
 https://vavoo.to/play/1588250776/index.m3u8
@@ -2892,16 +2886,16 @@ https://vavoo.to/play/1960971842/index.m3u8
 https://vavoo.to/play/2337375502/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SHQIP" group-title="Albania", RTSH SHQIP
-https://vavoo.to/play/1800075235/index.m3u8
-
-#EXTINF:-1 tvg-name="RTSH SHQIP" group-title="Albania", RTSH SHQIP
 https://vavoo.to/play/1737553037/index.m3u8
 
-#EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://vavoo.to/play/1868852854/index.m3u8
+#EXTINF:-1 tvg-name="RTSH SHQIP" group-title="Albania", RTSH SHQIP
+https://vavoo.to/play/1800075235/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
 https://vavoo.to/play/1673424152/index.m3u8
+
+#EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
+https://vavoo.to/play/1868852854/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 2 MIX" group-title="Albania", RTV 2 MIX
 https://vavoo.to/play/2365781947/index.m3u8
@@ -2931,10 +2925,10 @@ https://vavoo.to/play/4240032313/index.m3u8
 https://vavoo.to/play/2216491777/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 MIX" group-title="Albania", RTV 21 MIX
-https://vavoo.to/play/3677358348/index.m3u8
+https://vavoo.to/play/3622439522/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 MIX" group-title="Albania", RTV 21 MIX
-https://vavoo.to/play/3622439522/index.m3u8
+https://vavoo.to/play/3677358348/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 MIX (1)" group-title="Albania", RTV 21 MIX (1)
 https://vavoo.to/play/2762986130/index.m3u8
@@ -7956,10 +7950,10 @@ https://vavoo.to/play/197875554/index.m3u8
 https://vavoo.to/play/1973649955/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://vavoo.to/play/802245103/index.m3u8
+https://vavoo.to/play/587942529/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://vavoo.to/play/587942529/index.m3u8
+https://vavoo.to/play/802245103/index.m3u8
 
 #EXTINF:-1 tvg-name="ALFA TV" group-title="Balkans", ALFA TV
 https://vavoo.to/play/572109402/index.m3u8
@@ -8085,10 +8079,10 @@ https://vavoo.to/play/3630683467/index.m3u8
 https://vavoo.to/play/2398384130/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH" group-title="Balkans", BBC EARTH
-https://vavoo.to/play/1595188996/index.m3u8
+https://vavoo.to/play/1561391128/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH" group-title="Balkans", BBC EARTH
-https://vavoo.to/play/1561391128/index.m3u8
+https://vavoo.to/play/1595188996/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
 https://vavoo.to/play/2942971146/index.m3u8
@@ -8100,10 +8094,10 @@ https://vavoo.to/play/3265703113/index.m3u8
 https://vavoo.to/play/1545863727/index.m3u8
 
 #EXTINF:-1 tvg-name="BN MUSIC" group-title="Balkans", BN MUSIC
-https://vavoo.to/play/490769929/index.m3u8
+https://vavoo.to/play/446208285/index.m3u8
 
 #EXTINF:-1 tvg-name="BN MUSIC" group-title="Balkans", BN MUSIC
-https://vavoo.to/play/446208285/index.m3u8
+https://vavoo.to/play/490769929/index.m3u8
 
 #EXTINF:-1 tvg-name="BN2" group-title="Balkans", BN2
 https://vavoo.to/play/1061880403/index.m3u8
@@ -8163,10 +8157,10 @@ https://vavoo.to/play/1989623711/index.m3u8
 https://vavoo.to/play/2636960944/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Balkans", CINEMAX 2
-https://vavoo.to/play/858985043/index.m3u8
+https://vavoo.to/play/825705807/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Balkans", CINEMAX 2
-https://vavoo.to/play/825705807/index.m3u8
+https://vavoo.to/play/858985043/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2 HD (1)" group-title="Balkans", CINEMAX 2 HD (1)
 https://vavoo.to/play/329503571/index.m3u8
@@ -8409,10 +8403,10 @@ https://vavoo.to/play/1324249288/index.m3u8
 https://vavoo.to/play/3243625503/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX MOVIES" group-title="Balkans", FOX MOVIES
-https://vavoo.to/play/4257106942/index.m3u8
+https://vavoo.to/play/4049881232/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX MOVIES" group-title="Balkans", FOX MOVIES
-https://vavoo.to/play/4049881232/index.m3u8
+https://vavoo.to/play/4257106942/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX MOVIES (1)" group-title="Balkans", FOX MOVIES (1)
 https://vavoo.to/play/2183237728/index.m3u8
@@ -8430,10 +8424,10 @@ https://vavoo.to/play/1788977439/index.m3u8
 https://vavoo.to/play/1442214730/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://vavoo.to/play/3144317054/index.m3u8
+https://vavoo.to/play/3601267133/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://vavoo.to/play/3601267133/index.m3u8
+https://vavoo.to/play/3144317054/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT 2" group-title="Balkans", HAYAT 2
 https://vavoo.to/play/1005969581/index.m3u8
@@ -8613,10 +8607,10 @@ https://vavoo.to/play/1500452507/index.m3u8
 https://vavoo.to/play/1678720811/index.m3u8
 
 #EXTINF:-1 tvg-name="MINI TV" group-title="Balkans", MINI TV
-https://vavoo.to/play/2786546292/index.m3u8
+https://vavoo.to/play/2111332007/index.m3u8
 
 #EXTINF:-1 tvg-name="MINI TV" group-title="Balkans", MINI TV
-https://vavoo.to/play/2111332007/index.m3u8
+https://vavoo.to/play/2786546292/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIMAX" group-title="Balkans", MINIMAX
 https://vavoo.to/play/2690470424/index.m3u8
@@ -8682,10 +8676,10 @@ https://vavoo.to/play/3723378765/index.m3u8
 https://vavoo.to/play/2189044746/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA BH" group-title="Balkans", NOVA BH
-https://vavoo.to/play/663124824/index.m3u8
+https://vavoo.to/play/4232673163/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA BH" group-title="Balkans", NOVA BH
-https://vavoo.to/play/4232673163/index.m3u8
+https://vavoo.to/play/663124824/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA M" group-title="Balkans", NOVA M
 https://vavoo.to/play/3470043142/index.m3u8
@@ -8703,10 +8697,10 @@ https://vavoo.to/play/3896095046/index.m3u8
 https://vavoo.to/play/786558223/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://vavoo.to/play/1749341885/index.m3u8
+https://vavoo.to/play/360492582/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://vavoo.to/play/360492582/index.m3u8
+https://vavoo.to/play/1749341885/index.m3u8
 
 #EXTINF:-1 tvg-name="OTV VALENTINO" group-title="Balkans", OTV VALENTINO
 https://vavoo.to/play/2426904498/index.m3u8
@@ -9195,10 +9189,10 @@ https://vavoo.to/play/494867044/index.m3u8
 https://vavoo.to/play/4273556163/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Balkans", TV 1000
-https://vavoo.to/play/1998323184/index.m3u8
+https://vavoo.to/play/2899636515/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Balkans", TV 1000
-https://vavoo.to/play/2899636515/index.m3u8
+https://vavoo.to/play/1998323184/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 5" group-title="Balkans", TV 5
 https://vavoo.to/play/188345347/index.m3u8
@@ -9207,10 +9201,10 @@ https://vavoo.to/play/188345347/index.m3u8
 https://vavoo.to/play/2975285148/index.m3u8
 
 #EXTINF:-1 tvg-name="TV GLAS DRINE" group-title="Balkans", TV GLAS DRINE
-https://vavoo.to/play/3457822370/index.m3u8
+https://vavoo.to/play/3842226300/index.m3u8
 
 #EXTINF:-1 tvg-name="TV GLAS DRINE" group-title="Balkans", TV GLAS DRINE
-https://vavoo.to/play/3842226300/index.m3u8
+https://vavoo.to/play/3457822370/index.m3u8
 
 #EXTINF:-1 tvg-name="TV ISTOK" group-title="Balkans", TV ISTOK
 https://vavoo.to/play/1381838146/index.m3u8
@@ -9324,10 +9318,10 @@ https://vavoo.to/play/1426505444/index.m3u8
 https://vavoo.to/play/2800458330/index.m3u8
 
 #EXTINF:-1 tvg-name="AMC" group-title="Bulgaria", AMC
-https://vavoo.to/play/549796346/index.m3u8
+https://vavoo.to/play/1606160440/index.m3u8
 
 #EXTINF:-1 tvg-name="AMC" group-title="Bulgaria", AMC
-https://vavoo.to/play/1606160440/index.m3u8
+https://vavoo.to/play/549796346/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Bulgaria", ANIMAL PLANET
 https://vavoo.to/play/2523527914/index.m3u8
@@ -9336,10 +9330,10 @@ https://vavoo.to/play/2523527914/index.m3u8
 https://vavoo.to/play/4025501657/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Bulgaria", AUTO MOTOR SPORT
-https://vavoo.to/play/1708359465/index.m3u8
+https://vavoo.to/play/3208497021/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Bulgaria", AUTO MOTOR SPORT
-https://vavoo.to/play/3208497021/index.m3u8
+https://vavoo.to/play/1708359465/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN" group-title="Bulgaria", AXN
 https://vavoo.to/play/4097263521/index.m3u8
@@ -9375,10 +9369,10 @@ https://vavoo.to/play/2376279153/index.m3u8
 https://vavoo.to/play/2114825503/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 1" group-title="Bulgaria", BNT 1
-https://vavoo.to/play/2529026777/index.m3u8
+https://vavoo.to/play/2355422756/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 1" group-title="Bulgaria", BNT 1
-https://vavoo.to/play/2355422756/index.m3u8
+https://vavoo.to/play/2529026777/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 2" group-title="Bulgaria", BNT 2
 https://vavoo.to/play/3418660084/index.m3u8
@@ -9471,10 +9465,10 @@ https://vavoo.to/play/3577968635/index.m3u8
 https://vavoo.to/play/3533398255/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
-https://vavoo.to/play/3988717339/index.m3u8
+https://vavoo.to/play/3781491829/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
-https://vavoo.to/play/3781491829/index.m3u8
+https://vavoo.to/play/3988717339/index.m3u8
 
 #EXTINF:-1 tvg-name="CITY TV" group-title="Bulgaria", CITY TV
 https://vavoo.to/play/3253967644/index.m3u8
@@ -9528,10 +9522,10 @@ https://vavoo.to/play/3938899839/index.m3u8
 https://vavoo.to/play/1337595654/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Bulgaria", DISCOVERY SCIENCE
-https://vavoo.to/play/609687320/index.m3u8
+https://vavoo.to/play/1347565371/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Bulgaria", DISCOVERY SCIENCE
-https://vavoo.to/play/1347565371/index.m3u8
+https://vavoo.to/play/609687320/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" group-title="Bulgaria", DISCOVERY WORLD
 https://vavoo.to/play/1266114284/index.m3u8
@@ -9612,10 +9606,10 @@ https://vavoo.to/play/3692629984/index.m3u8
 https://vavoo.to/play/4144011582/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX" group-title="Bulgaria", FOX
-https://vavoo.to/play/3214541036/index.m3u8
+https://vavoo.to/play/3236112686/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX" group-title="Bulgaria", FOX
-https://vavoo.to/play/3236112686/index.m3u8
+https://vavoo.to/play/3214541036/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX CRIME" group-title="Bulgaria", FOX CRIME
 https://vavoo.to/play/1715237185/index.m3u8
@@ -9705,10 +9699,10 @@ https://vavoo.to/play/3502546645/index.m3u8
 https://vavoo.to/play/320132024/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
-https://vavoo.to/play/779418120/index.m3u8
+https://vavoo.to/play/3986995045/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
-https://vavoo.to/play/3986995045/index.m3u8
+https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
 https://vavoo.to/play/1602513781/index.m3u8
@@ -9732,16 +9726,16 @@ https://vavoo.to/play/1807489071/index.m3u8
 https://vavoo.to/play/3764864653/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Bulgaria", NAT GEO
-https://vavoo.to/play/1103383282/index.m3u8
-
-#EXTINF:-1 tvg-name="NAT GEO" group-title="Bulgaria", NAT GEO
 https://vavoo.to/play/1176264166/index.m3u8
 
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
-https://vavoo.to/play/3093560896/index.m3u8
+#EXTINF:-1 tvg-name="NAT GEO" group-title="Bulgaria", NAT GEO
+https://vavoo.to/play/1103383282/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
 https://vavoo.to/play/2474272926/index.m3u8
+
+#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
+https://vavoo.to/play/3093560896/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK JR" group-title="Bulgaria", NICK JR
 https://vavoo.to/play/937172426/index.m3u8
@@ -9750,10 +9744,10 @@ https://vavoo.to/play/937172426/index.m3u8
 https://vavoo.to/play/805571294/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="Bulgaria", NICKELODEON
-https://vavoo.to/play/4262594289/index.m3u8
+https://vavoo.to/play/1036143516/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="Bulgaria", NICKELODEON
-https://vavoo.to/play/1036143516/index.m3u8
+https://vavoo.to/play/4262594289/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA NEWS" group-title="Bulgaria", NOVA NEWS
 https://vavoo.to/play/2550224292/index.m3u8
@@ -9786,10 +9780,10 @@ https://vavoo.to/play/2169709312/index.m3u8
 https://vavoo.to/play/283245961/index.m3u8
 
 #EXTINF:-1 tvg-name="RING" group-title="Bulgaria", RING
-https://vavoo.to/play/927756604/index.m3u8
+https://vavoo.to/play/1518399743/index.m3u8
 
 #EXTINF:-1 tvg-name="RING" group-title="Bulgaria", RING
-https://vavoo.to/play/1518399743/index.m3u8
+https://vavoo.to/play/927756604/index.m3u8
 
 #EXTINF:-1 tvg-name="RODINA" group-title="Bulgaria", RODINA
 https://vavoo.to/play/1707089745/index.m3u8
@@ -9855,10 +9849,10 @@ https://vavoo.to/play/3687579037/index.m3u8
 https://vavoo.to/play/3692292745/index.m3u8
 
 #EXTINF:-1 tvg-name="TV EVROPA" group-title="Bulgaria", TV EVROPA
-https://vavoo.to/play/2473349072/index.m3u8
+https://vavoo.to/play/2679524542/index.m3u8
 
 #EXTINF:-1 tvg-name="TV EVROPA" group-title="Bulgaria", TV EVROPA
-https://vavoo.to/play/2679524542/index.m3u8
+https://vavoo.to/play/2473349072/index.m3u8
 
 #EXTINF:-1 tvg-name="TV PLUS" group-title="Bulgaria", TV PLUS
 https://vavoo.to/play/1793684627/index.m3u8
@@ -9876,10 +9870,10 @@ https://vavoo.to/play/3938292130/index.m3u8
 https://vavoo.to/play/1600902519/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Bulgaria", VIASAT HISTORY
-https://vavoo.to/play/235695536/index.m3u8
+https://vavoo.to/play/2843528813/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Bulgaria", VIASAT HISTORY
-https://vavoo.to/play/2843528813/index.m3u8
+https://vavoo.to/play/235695536/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT NATURE" group-title="Bulgaria", VIASAT NATURE
 https://vavoo.to/play/2542225813/index.m3u8
@@ -10620,10 +10614,10 @@ https://vavoo.to/play/2246854724/index.m3u8
 https://vavoo.to/play/4021366844/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+" group-title="France", CANAL+
-https://vavoo.to/play/1839597702/index.m3u8
+https://vavoo.to/play/6981957/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+" group-title="France", CANAL+
-https://vavoo.to/play/6981957/index.m3u8
+https://vavoo.to/play/1839597702/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ 4K ULTRA HD" group-title="France", CANAL+ 4K ULTRA HD
 https://vavoo.to/play/837868540/index.m3u8
@@ -10701,16 +10695,16 @@ https://vavoo.to/play/4132894037/index.m3u8
 https://vavoo.to/play/1051067269/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE" group-title="France", CANAL+ PREMIER LEAGUE
-https://vavoo.to/play/599931871/index.m3u8
-
-#EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE" group-title="France", CANAL+ PREMIER LEAGUE
 https://vavoo.to/play/128077399/index.m3u8
 
-#EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
-https://vavoo.to/play/907568283/index.m3u8
+#EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE" group-title="France", CANAL+ PREMIER LEAGUE
+https://vavoo.to/play/599931871/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
 https://vavoo.to/play/4123535862/index.m3u8
+
+#EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
+https://vavoo.to/play/907568283/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES FHD" group-title="France", CANAL+ SERIES FHD
 https://vavoo.to/play/2141653939/index.m3u8
@@ -10734,10 +10728,10 @@ https://vavoo.to/play/703788444/index.m3u8
 https://vavoo.to/play/1066093298/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360" group-title="France", CANAL+ SPORT 360
-https://vavoo.to/play/1814819760/index.m3u8
+https://vavoo.to/play/3411759213/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360" group-title="France", CANAL+ SPORT 360
-https://vavoo.to/play/3411759213/index.m3u8
+https://vavoo.to/play/1814819760/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4" group-title="France", CANAL+ SPORT 4
 https://vavoo.to/play/2376832738/index.m3u8
@@ -10770,10 +10764,10 @@ https://vavoo.to/play/4129073805/index.m3u8
 https://vavoo.to/play/511277245/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://vavoo.to/play/3027709212/index.m3u8
+https://vavoo.to/play/2674834370/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://vavoo.to/play/2674834370/index.m3u8
+https://vavoo.to/play/3027709212/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE ET PECHE (1)" group-title="France", CHASSE ET PECHE (1)
 https://vavoo.to/play/2716078255/index.m3u8
@@ -10845,10 +10839,10 @@ https://vavoo.to/play/3512138835/index.m3u8
 https://vavoo.to/play/3677483481/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB" group-title="France", CINE+ CLUB
-https://vavoo.to/play/1767264919/index.m3u8
+https://vavoo.to/play/1800537483/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB" group-title="France", CINE+ CLUB
-https://vavoo.to/play/1800537483/index.m3u8
+https://vavoo.to/play/1767264919/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB FHD (1)" group-title="France", CINE+ CLUB FHD (1)
 https://vavoo.to/play/2651402557/index.m3u8
@@ -10869,10 +10863,10 @@ https://vavoo.to/play/2737270354/index.m3u8
 https://vavoo.to/play/1356146615/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FAMIZ" group-title="France", CINE+ FAMIZ
-https://vavoo.to/play/2833341917/index.m3u8
+https://vavoo.to/play/2755354291/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FAMIZ" group-title="France", CINE+ FAMIZ
-https://vavoo.to/play/2755354291/index.m3u8
+https://vavoo.to/play/2833341917/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FAMIZ FHD" group-title="France", CINE+ FAMIZ FHD
 https://vavoo.to/play/2704150133/index.m3u8
@@ -10884,10 +10878,10 @@ https://vavoo.to/play/3406691536/index.m3u8
 https://vavoo.to/play/2182084046/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FRISSON" group-title="France", CINE+ FRISSON
-https://vavoo.to/play/3654122461/index.m3u8
+https://vavoo.to/play/438122160/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FRISSON" group-title="France", CINE+ FRISSON
-https://vavoo.to/play/438122160/index.m3u8
+https://vavoo.to/play/3654122461/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ FRISSON (BACKUP)" group-title="France", CINE+ FRISSON (BACKUP)
 https://vavoo.to/play/1649216218/index.m3u8
@@ -10962,10 +10956,10 @@ https://vavoo.to/play/1366669684/index.m3u8
 https://vavoo.to/play/3920977229/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://vavoo.to/play/2332499529/index.m3u8
+https://vavoo.to/play/2686355607/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://vavoo.to/play/2686355607/index.m3u8
+https://vavoo.to/play/2332499529/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT (1)" group-title="France", CRIME DISTRICT (1)
 https://vavoo.to/play/2364923189/index.m3u8
@@ -11151,10 +11145,10 @@ https://vavoo.to/play/1329940600/index.m3u8
 https://vavoo.to/play/3237934255/index.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY+" group-title="France", DISNEY+
-https://vavoo.to/play/2427544834/index.m3u8
+https://vavoo.to/play/2322096639/index.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY+" group-title="France", DISNEY+
-https://vavoo.to/play/2322096639/index.m3u8
+https://vavoo.to/play/2427544834/index.m3u8
 
 #EXTINF:-1 tvg-name="E!" group-title="France", E!
 https://vavoo.to/play/3093319007/index.m3u8
@@ -11205,10 +11199,10 @@ https://vavoo.to/play/2551109620/index.m3u8
 https://vavoo.to/play/584773960/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://vavoo.to/play/3719734336/index.m3u8
+https://vavoo.to/play/3513558830/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://vavoo.to/play/3513558830/index.m3u8
+https://vavoo.to/play/3719734336/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="France", EUROSPORT 1 (1)
 https://vavoo.to/play/2935192752/index.m3u8
@@ -11271,10 +11265,10 @@ https://vavoo.to/play/3063169030/index.m3u8
 https://vavoo.to/play/2363504016/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+" group-title="France", FOOT+
-https://vavoo.to/play/1975426357/index.m3u8
+https://vavoo.to/play/180860151/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+" group-title="France", FOOT+
-https://vavoo.to/play/180860151/index.m3u8
+https://vavoo.to/play/1975426357/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+ (1)" group-title="France", FOOT+ (1)
 https://vavoo.to/play/3299673666/index.m3u8
@@ -11283,10 +11277,10 @@ https://vavoo.to/play/3299673666/index.m3u8
 https://vavoo.to/play/1224436937/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 2" group-title="France", FRANCE 2
-https://vavoo.to/play/876169338/index.m3u8
+https://vavoo.to/play/4025894057/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 2" group-title="France", FRANCE 2
-https://vavoo.to/play/4025894057/index.m3u8
+https://vavoo.to/play/876169338/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 2 HD (1)" group-title="France", FRANCE 2 HD (1)
 https://vavoo.to/play/3118025835/index.m3u8
@@ -11361,10 +11355,10 @@ https://vavoo.to/play/3522100021/index.m3u8
 https://vavoo.to/play/3958743394/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLF CHANNEL" group-title="France", GOLF CHANNEL
-https://vavoo.to/play/2672088867/index.m3u8
+https://vavoo.to/play/765139465/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLF CHANNEL" group-title="France", GOLF CHANNEL
-https://vavoo.to/play/765139465/index.m3u8
+https://vavoo.to/play/2672088867/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLF CHANNEL HD (1)" group-title="France", GOLF CHANNEL HD (1)
 https://vavoo.to/play/1646679501/index.m3u8
@@ -11556,10 +11550,10 @@ https://vavoo.to/play/3279917058/index.m3u8
 https://vavoo.to/play/235149497/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS" group-title="France", MANGAS
-https://vavoo.to/play/139408412/index.m3u8
+https://vavoo.to/play/1703130591/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS" group-title="France", MANGAS
-https://vavoo.to/play/1703130591/index.m3u8
+https://vavoo.to/play/139408412/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS (1)" group-title="France", MANGAS (1)
 https://vavoo.to/play/3781018265/index.m3u8
@@ -11718,19 +11712,19 @@ https://vavoo.to/play/2550219127/index.m3u8
 https://vavoo.to/play/2233165627/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="France", NAT GEO
-https://vavoo.to/play/1428792459/index.m3u8
+https://vavoo.to/play/1341169782/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="France", NAT GEO
-https://vavoo.to/play/1341169782/index.m3u8
+https://vavoo.to/play/1428792459/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO FHD" group-title="France", NAT GEO FHD
 https://vavoo.to/play/2662111844/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://vavoo.to/play/4163250572/index.m3u8
+https://vavoo.to/play/1257890982/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://vavoo.to/play/1257890982/index.m3u8
+https://vavoo.to/play/4163250572/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD" group-title="France", NAT GEO WILD FHD
 https://vavoo.to/play/2958993581/index.m3u8
@@ -11808,10 +11802,10 @@ https://vavoo.to/play/4195100803/index.m3u8
 https://vavoo.to/play/824018318/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://vavoo.to/play/4032821325/index.m3u8
+https://vavoo.to/play/730920094/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://vavoo.to/play/730920094/index.m3u8
+https://vavoo.to/play/4032821325/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS HD (1)" group-title="France", NRJ HITS HD (1)
 https://vavoo.to/play/3639203183/index.m3u8
@@ -11832,10 +11826,10 @@ https://vavoo.to/play/1340739337/index.m3u8
 https://vavoo.to/play/1215276492/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY" group-title="France", OCS CITY
-https://vavoo.to/play/3370320380/index.m3u8
+https://vavoo.to/play/321654063/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY" group-title="France", OCS CITY
-https://vavoo.to/play/321654063/index.m3u8
+https://vavoo.to/play/3370320380/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY (1)" group-title="France", OCS CITY (1)
 https://vavoo.to/play/1916217152/index.m3u8
@@ -11862,10 +11856,10 @@ https://vavoo.to/play/2215485637/index.m3u8
 https://vavoo.to/play/1690567411/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://vavoo.to/play/1451589438/index.m3u8
+https://vavoo.to/play/1417750562/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://vavoo.to/play/1417750562/index.m3u8
+https://vavoo.to/play/1451589438/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS FHD" group-title="France", OCS GEANTS FHD
 https://vavoo.to/play/1463363704/index.m3u8
@@ -11970,10 +11964,10 @@ https://vavoo.to/play/86541107/index.m3u8
 https://vavoo.to/play/1068998242/index.m3u8
 
 #EXTINF:-1 tvg-name="PLANETE+" group-title="France", PLANETE+
-https://vavoo.to/play/429070924/index.m3u8
+https://vavoo.to/play/3260815007/index.m3u8
 
 #EXTINF:-1 tvg-name="PLANETE+" group-title="France", PLANETE+
-https://vavoo.to/play/3260815007/index.m3u8
+https://vavoo.to/play/429070924/index.m3u8
 
 #EXTINF:-1 tvg-name="PLANETE+ A&E" group-title="France", PLANETE+ A&E
 https://vavoo.to/play/3284684728/index.m3u8
@@ -12483,10 +12477,10 @@ https://vavoo.to/play/610142951/index.m3u8
 https://vavoo.to/play/4185021864/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://vavoo.to/play/1149078876/index.m3u8
+https://vavoo.to/play/361211396/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://vavoo.to/play/361211396/index.m3u8
+https://vavoo.to/play/1149078876/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC HD" group-title="France", TMC HD
 https://vavoo.to/play/354095306/index.m3u8
@@ -12531,16 +12525,16 @@ https://vavoo.to/play/3595848084/index.m3u8
 https://vavoo.to/play/3209018316/index.m3u8
 
 #EXTINF:-1 tvg-name="TREK" group-title="France", TREK
-https://vavoo.to/play/1569435048/index.m3u8
-
-#EXTINF:-1 tvg-name="TREK" group-title="France", TREK
 https://vavoo.to/play/548656435/index.m3u8
 
-#EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
-https://vavoo.to/play/2320044455/index.m3u8
+#EXTINF:-1 tvg-name="TREK" group-title="France", TREK
+https://vavoo.to/play/1569435048/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
 https://vavoo.to/play/2375091891/index.m3u8
+
+#EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
+https://vavoo.to/play/2320044455/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH (1)" group-title="France", TV BREIZH (1)
 https://vavoo.to/play/36354660/index.m3u8
@@ -12639,10 +12633,10 @@ https://vavoo.to/play/549334828/index.m3u8
 https://vavoo.to/play/3383548329/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://vavoo.to/play/2978100125/index.m3u8
+https://vavoo.to/play/3059360905/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://vavoo.to/play/3059360905/index.m3u8
+https://vavoo.to/play/2978100125/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV NEXT" group-title="France", WARNER TV NEXT
 https://vavoo.to/play/488364629/index.m3u8
@@ -12660,10 +12654,10 @@ https://vavoo.to/play/51258455/index.m3u8
 https://vavoo.to/play/2037441576/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Germany", 13TH STREET
-https://vavoo.to/play/3160812963/index.m3u8
+https://vavoo.to/play/247062665/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Germany", 13TH STREET
-https://vavoo.to/play/247062665/index.m3u8
+https://vavoo.to/play/3160812963/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET HD (1)" group-title="Germany", 13TH STREET HD (1)
 https://vavoo.to/play/3854738303/index.m3u8
@@ -12918,10 +12912,10 @@ https://vavoo.to/play/3891919985/index.m3u8
 https://vavoo.to/play/3858606957/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany", BOOMERANG
-https://vavoo.to/play/1143040565/index.m3u8
+https://vavoo.to/play/1176845609/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany", BOOMERANG
-https://vavoo.to/play/1176845609/index.m3u8
+https://vavoo.to/play/1143040565/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Germany", BOOMERANG (1)
 https://vavoo.to/play/248401354/index.m3u8
@@ -12993,10 +12987,10 @@ https://vavoo.to/play/4240478721/index.m3u8
 https://vavoo.to/play/1966968276/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany", DAS ERSTE
-https://vavoo.to/play/2781626432/index.m3u8
+https://vavoo.to/play/2814908252/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany", DAS ERSTE
-https://vavoo.to/play/2814908252/index.m3u8
+https://vavoo.to/play/2781626432/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE HD (1)" group-title="Germany", DAS ERSTE HD (1)
 https://vavoo.to/play/1340558123/index.m3u8
@@ -13047,10 +13041,10 @@ https://vavoo.to/play/3336673893/index.m3u8
 https://vavoo.to/play/2331252043/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://vavoo.to/play/1389052779/index.m3u8
+https://vavoo.to/play/1209157526/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://vavoo.to/play/1209157526/index.m3u8
+https://vavoo.to/play/1389052779/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2 (MATCH TIME) HD (1)" group-title="Germany", DAZN 2 (MATCH TIME) HD (1)
 https://vavoo.to/play/2923762838/index.m3u8
@@ -13980,10 +13974,10 @@ https://vavoo.to/play/846416462/index.m3u8
 https://vavoo.to/play/3316874696/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://vavoo.to/play/2952309881/index.m3u8
+https://vavoo.to/play/2919037797/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://vavoo.to/play/2919037797/index.m3u8
+https://vavoo.to/play/2952309881/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS (1)" group-title="Germany", NICKTOONS (1)
 https://vavoo.to/play/3843525510/index.m3u8
@@ -13998,10 +13992,10 @@ https://vavoo.to/play/2137936559/index.m3u8
 https://vavoo.to/play/855045177/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://vavoo.to/play/371136743/index.m3u8
+https://vavoo.to/play/2077464868/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://vavoo.to/play/2077464868/index.m3u8
+https://vavoo.to/play/371136743/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO HEVC (1)" group-title="Germany", NITRO HEVC (1)
 https://vavoo.to/play/3085198764/index.m3u8
@@ -14019,10 +14013,10 @@ https://vavoo.to/play/2289767023/index.m3u8
 https://vavoo.to/play/2997620179/index.m3u8
 
 #EXTINF:-1 tvg-name="NRWISION" group-title="Germany", NRWISION
-https://vavoo.to/play/1589135677/index.m3u8
+https://vavoo.to/play/1499487785/index.m3u8
 
 #EXTINF:-1 tvg-name="NRWISION" group-title="Germany", NRWISION
-https://vavoo.to/play/1499487785/index.m3u8
+https://vavoo.to/play/1589135677/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV (1)" group-title="Germany", NTV (1)
 https://vavoo.to/play/3784998028/index.m3u8
@@ -14067,10 +14061,10 @@ https://vavoo.to/play/2747553811/index.m3u8
 https://vavoo.to/play/1713001419/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE" group-title="Germany", ONE
-https://vavoo.to/play/196602824/index.m3u8
+https://vavoo.to/play/1989120851/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE" group-title="Germany", ONE
-https://vavoo.to/play/1989120851/index.m3u8
+https://vavoo.to/play/196602824/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE (1)" group-title="Germany", ONE (1)
 https://vavoo.to/play/3269507991/index.m3u8
@@ -14085,10 +14079,10 @@ https://vavoo.to/play/4157022718/index.m3u8
 https://vavoo.to/play/3479962875/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 1" group-title="Germany", ORF 1
-https://vavoo.to/play/3506200154/index.m3u8
+https://vavoo.to/play/3174096793/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 1" group-title="Germany", ORF 1
-https://vavoo.to/play/3174096793/index.m3u8
+https://vavoo.to/play/3506200154/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 2" group-title="Germany", ORF 2
 https://vavoo.to/play/4203783497/index.m3u8
@@ -14100,10 +14094,10 @@ https://vavoo.to/play/2539398282/index.m3u8
 https://vavoo.to/play/3354430713/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF SPORT+" group-title="Germany", ORF SPORT+
-https://vavoo.to/play/3251653121/index.m3u8
+https://vavoo.to/play/3440003439/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF SPORT+" group-title="Germany", ORF SPORT+
-https://vavoo.to/play/3440003439/index.m3u8
+https://vavoo.to/play/3251653121/index.m3u8
 
 #EXTINF:-1 tvg-name="OTVA" group-title="Germany", OTVA
 https://vavoo.to/play/4193046475/index.m3u8
@@ -14292,10 +14286,10 @@ https://vavoo.to/play/2285641551/index.m3u8
 https://vavoo.to/play/84689081/index.m3u8
 
 #EXTINF:-1 tvg-name="RFO" group-title="Germany", RFO
-https://vavoo.to/play/2875034634/index.m3u8
+https://vavoo.to/play/3597005969/index.m3u8
 
 #EXTINF:-1 tvg-name="RFO" group-title="Germany", RFO
-https://vavoo.to/play/3597005969/index.m3u8
+https://vavoo.to/play/2875034634/index.m3u8
 
 #EXTINF:-1 tvg-name="RFO ROSENHEIM" group-title="Germany", RFO ROSENHEIM
 https://vavoo.to/play/2382176259/index.m3u8
@@ -14331,10 +14325,10 @@ https://vavoo.to/play/2732807498/index.m3u8
 https://vavoo.to/play/1758367531/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://vavoo.to/play/2364963583/index.m3u8
+https://vavoo.to/play/2398236131/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://vavoo.to/play/2398236131/index.m3u8
+https://vavoo.to/play/2364963583/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME (1)" group-title="Germany", RTL CRIME (1)
 https://vavoo.to/play/3323550976/index.m3u8
@@ -14394,16 +14388,16 @@ https://vavoo.to/play/1244685525/index.m3u8
 https://vavoo.to/play/1170962566/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
-https://vavoo.to/play/1572144716/index.m3u8
-
-#EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
 https://vavoo.to/play/1198260913/index.m3u8
 
-#EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
-https://vavoo.to/play/2891741753/index.m3u8
+#EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
+https://vavoo.to/play/1572144716/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
 https://vavoo.to/play/2877582637/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
+https://vavoo.to/play/2891741753/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL ZWEI HD (1)" group-title="Germany", RTL ZWEI HD (1)
 https://vavoo.to/play/160203873/index.m3u8
@@ -14655,10 +14649,10 @@ https://vavoo.to/play/840440149/index.m3u8
 https://vavoo.to/play/1018615269/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY 1" group-title="Germany", SKY 1
-https://vavoo.to/play/1751787800/index.m3u8
+https://vavoo.to/play/94808283/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY 1" group-title="Germany", SKY 1
-https://vavoo.to/play/94808283/index.m3u8
+https://vavoo.to/play/1751787800/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY 1 HD (1)" group-title="Germany", SKY 1 HD (1)
 https://vavoo.to/play/2760602887/index.m3u8
@@ -14985,10 +14979,10 @@ https://vavoo.to/play/126070455/index.m3u8
 https://vavoo.to/play/750680993/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://vavoo.to/play/2615245916/index.m3u8
+https://vavoo.to/play/1091552264/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://vavoo.to/play/1091552264/index.m3u8
+https://vavoo.to/play/2615245916/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD+ (1)" group-title="Germany", SKY CINEMA FAMILY HD+ (1)
 https://vavoo.to/play/1988074518/index.m3u8
@@ -15162,10 +15156,10 @@ https://vavoo.to/play/680919359/index.m3u8
 https://vavoo.to/play/91673989/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://vavoo.to/play/2339352940/index.m3u8
+https://vavoo.to/play/2276831746/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://vavoo.to/play/2276831746/index.m3u8
+https://vavoo.to/play/2339352940/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT" group-title="Germany", SKY SELECT
 https://vavoo.to/play/1870257759/index.m3u8
@@ -15177,10 +15171,10 @@ https://vavoo.to/play/283510209/index.m3u8
 https://vavoo.to/play/3746417663/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Germany", SKY SELECT 1
-https://vavoo.to/play/1859652468/index.m3u8
+https://vavoo.to/play/2903000601/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Germany", SKY SELECT 1
-https://vavoo.to/play/2903000601/index.m3u8
+https://vavoo.to/play/1859652468/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1 BOX" group-title="Germany", SKY SELECT 1 BOX
 https://vavoo.to/play/1652281656/index.m3u8
@@ -15300,10 +15294,10 @@ https://vavoo.to/play/3996795400/index.m3u8
 https://vavoo.to/play/57596824/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 9" group-title="Germany", SKY SELECT 9
-https://vavoo.to/play/1588084917/index.m3u8
+https://vavoo.to/play/2641890776/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 9" group-title="Germany", SKY SELECT 9
-https://vavoo.to/play/2641890776/index.m3u8
+https://vavoo.to/play/1588084917/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 9 (1)" group-title="Germany", SKY SELECT 9 (1)
 https://vavoo.to/play/3545918392/index.m3u8
@@ -15480,10 +15474,10 @@ https://vavoo.to/play/4101211079/index.m3u8
 https://vavoo.to/play/3799248107/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT MIX" group-title="Germany", SKY SPORT MIX
-https://vavoo.to/play/100835397/index.m3u8
+https://vavoo.to/play/756758171/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT MIX" group-title="Germany", SKY SPORT MIX
-https://vavoo.to/play/756758171/index.m3u8
+https://vavoo.to/play/100835397/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT NEWS" group-title="Germany", SKY SPORT NEWS
 https://vavoo.to/play/4156854331/index.m3u8
@@ -15690,10 +15684,10 @@ https://vavoo.to/play/3399533194/index.m3u8
 https://vavoo.to/play/500623417/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="Germany", SYFY
-https://vavoo.to/play/2668658037/index.m3u8
+https://vavoo.to/play/3764999351/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="Germany", SYFY
-https://vavoo.to/play/3764999351/index.m3u8
+https://vavoo.to/play/2668658037/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY HD (1)" group-title="Germany", SYFY HD (1)
 https://vavoo.to/play/1680063305/index.m3u8
@@ -15720,10 +15714,10 @@ https://vavoo.to/play/3093655427/index.m3u8
 https://vavoo.to/play/512135720/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://vavoo.to/play/950216500/index.m3u8
+https://vavoo.to/play/578429897/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://vavoo.to/play/578429897/index.m3u8
+https://vavoo.to/play/950216500/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5 TV (1)" group-title="Germany", TELE 5 TV (1)
 https://vavoo.to/play/1693994894/index.m3u8
@@ -15804,10 +15798,10 @@ https://vavoo.to/play/1310739364/index.m3u8
 https://vavoo.to/play/1657612547/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS" group-title="Germany", TOGGO PLUS
-https://vavoo.to/play/2824100242/index.m3u8
+https://vavoo.to/play/2760792828/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS" group-title="Germany", TOGGO PLUS
-https://vavoo.to/play/2760792828/index.m3u8
+https://vavoo.to/play/2824100242/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS (1)" group-title="Germany", TOGGO PLUS (1)
 https://vavoo.to/play/3675357538/index.m3u8
@@ -15867,10 +15861,10 @@ https://vavoo.to/play/4030242361/index.m3u8
 https://vavoo.to/play/656561824/index.m3u8
 
 #EXTINF:-1 tvg-name="TV OBERFRANKEN" group-title="Germany", TV OBERFRANKEN
-https://vavoo.to/play/435447391/index.m3u8
+https://vavoo.to/play/1617812332/index.m3u8
 
 #EXTINF:-1 tvg-name="TV OBERFRANKEN" group-title="Germany", TV OBERFRANKEN
-https://vavoo.to/play/1617812332/index.m3u8
+https://vavoo.to/play/435447391/index.m3u8
 
 #EXTINF:-1 tvg-name="TV3 HD (1)" group-title="Germany", TV3 HD (1)
 https://vavoo.to/play/4096804646/index.m3u8
@@ -15987,10 +15981,10 @@ https://vavoo.to/play/2824983184/index.m3u8
 https://vavoo.to/play/3522719651/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV SERIE" group-title="Germany", WARNER TV SERIE
-https://vavoo.to/play/840655541/index.m3u8
+https://vavoo.to/play/2506867048/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV SERIE" group-title="Germany", WARNER TV SERIE
-https://vavoo.to/play/2506867048/index.m3u8
+https://vavoo.to/play/840655541/index.m3u8
 
 #EXTINF:-1 tvg-name="WDR" group-title="Germany", WDR
 https://vavoo.to/play/1373972750/index.m3u8
@@ -16005,10 +15999,10 @@ https://vavoo.to/play/2171614967/index.m3u8
 https://vavoo.to/play/2422241584/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://vavoo.to/play/2639678240/index.m3u8
+https://vavoo.to/play/3794756322/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://vavoo.to/play/3794756322/index.m3u8
+https://vavoo.to/play/2639678240/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT (1)" group-title="Germany", WELT (1)
 https://vavoo.to/play/742772823/index.m3u8
@@ -16053,10 +16047,10 @@ https://vavoo.to/play/3381588854/index.m3u8
 https://vavoo.to/play/631820026/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF" group-title="Germany", ZDF
-https://vavoo.to/play/3630825751/index.m3u8
+https://vavoo.to/play/2773645708/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF" group-title="Germany", ZDF
-https://vavoo.to/play/2773645708/index.m3u8
+https://vavoo.to/play/3630825751/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF HD (1)" group-title="Germany", ZDF HD (1)
 https://vavoo.to/play/2357166742/index.m3u8
@@ -16116,9 +16110,9 @@ https://vavoo.to/play/3267376899/index.m3u8
 
 https://vavoo.to/play/1506307932/index.m3u8
 
-https://vavoo.to/play/3938501125/index.m3u8
-
 https://vavoo.to/play/2265727942/index.m3u8
+
+https://vavoo.to/play/3938501125/index.m3u8
 
 https://vavoo.to/play/1585005860/index.m3u8
 
@@ -16176,9 +16170,9 @@ https://vavoo.to/play/2178717282/index.m3u8
 
 https://vavoo.to/play/2381583828/index.m3u8
 
-https://vavoo.to/play/3743894403/index.m3u8
-
 https://vavoo.to/play/2719953688/index.m3u8
+
+https://vavoo.to/play/3743894403/index.m3u8
 
 https://vavoo.to/play/62558606/index.m3u8
 
@@ -16208,9 +16202,9 @@ https://vavoo.to/play/1376440573/index.m3u8
 
 https://vavoo.to/play/363506221/index.m3u8
 
-https://vavoo.to/play/3802167244/index.m3u8
-
 https://vavoo.to/play/963607327/index.m3u8
+
+https://vavoo.to/play/3802167244/index.m3u8
 
 https://vavoo.to/play/1955739367/index.m3u8
 
@@ -16250,9 +16244,9 @@ https://vavoo.to/play/4222258377/index.m3u8
 
 https://vavoo.to/play/490955579/index.m3u8
 
-https://vavoo.to/play/3481346857/index.m3u8
-
 https://vavoo.to/play/3448075317/index.m3u8
+
+https://vavoo.to/play/3481346857/index.m3u8
 
 https://vavoo.to/play/2317684453/index.m3u8
 
@@ -16272,9 +16266,9 @@ https://vavoo.to/play/2982550433/index.m3u8
 
 https://vavoo.to/play/3439223610/index.m3u8
 
-https://vavoo.to/play/2767861049/index.m3u8
-
 https://vavoo.to/play/2820683351/index.m3u8
+
+https://vavoo.to/play/2767861049/index.m3u8
 
 https://vavoo.to/play/563160609/index.m3u8
 
@@ -16296,9 +16290,9 @@ https://vavoo.to/play/2897782781/index.m3u8
 
 https://vavoo.to/play/4248997029/index.m3u8
 
-https://vavoo.to/play/2134724757/index.m3u8
-
 https://vavoo.to/play/317837654/index.m3u8
+
+https://vavoo.to/play/2134724757/index.m3u8
 
 https://vavoo.to/play/2392139008/index.m3u8
 
@@ -16326,17 +16320,17 @@ https://vavoo.to/play/11090349/index.m3u8
 
 https://vavoo.to/play/2255724318/index.m3u8
 
-https://vavoo.to/play/950030926/index.m3u8
-
 https://vavoo.to/play/3815726749/index.m3u8
+
+https://vavoo.to/play/950030926/index.m3u8
 
 https://vavoo.to/play/1370869299/index.m3u8
 
 https://vavoo.to/play/3027903278/index.m3u8
 
-https://vavoo.to/play/1425667375/index.m3u8
-
 https://vavoo.to/play/84139639/index.m3u8
+
+https://vavoo.to/play/1425667375/index.m3u8
 
 https://vavoo.to/play/2143522071/index.m3u8
 
@@ -16380,9 +16374,9 @@ https://vavoo.to/play/3538009430/index.m3u8
 
 https://vavoo.to/play/3657217948/index.m3u8
 
-https://vavoo.to/play/3758728323/index.m3u8
-
 https://vavoo.to/play/3889279895/index.m3u8
+
+https://vavoo.to/play/3758728323/index.m3u8
 
 https://vavoo.to/play/3446813098/index.m3u8
 
@@ -16442,9 +16436,9 @@ https://vavoo.to/play/1711134994/index.m3u8
 
 https://vavoo.to/play/2627662768/index.m3u8
 
-https://vavoo.to/play/1225653759/index.m3u8
-
 https://vavoo.to/play/875922788/index.m3u8
+
+https://vavoo.to/play/1225653759/index.m3u8
 
 https://vavoo.to/play/246253359/index.m3u8
 
@@ -16454,9 +16448,9 @@ https://vavoo.to/play/1324733956/index.m3u8
 
 https://vavoo.to/play/869117599/index.m3u8
 
-https://vavoo.to/play/2179822223/index.m3u8
-
 https://vavoo.to/play/4241820180/index.m3u8
+
+https://vavoo.to/play/2179822223/index.m3u8
 
 https://vavoo.to/play/2049087681/index.m3u8
 
@@ -16472,13 +16466,13 @@ https://vavoo.to/play/374675593/index.m3u8
 
 https://vavoo.to/play/294457245/index.m3u8
 
-https://vavoo.to/play/2835672487/index.m3u8
-
 https://vavoo.to/play/1925964148/index.m3u8
 
-https://vavoo.to/play/2239645272/index.m3u8
+https://vavoo.to/play/2835672487/index.m3u8
 
 https://vavoo.to/play/2272923972/index.m3u8
+
+https://vavoo.to/play/2239645272/index.m3u8
 
 https://vavoo.to/play/2828455552/index.m3u8
 
@@ -16518,9 +16512,9 @@ https://vavoo.to/play/4031388312/index.m3u8
 
 https://vavoo.to/play/3656080408/index.m3u8
 
-https://vavoo.to/play/2251241999/index.m3u8
-
 https://vavoo.to/play/1574975196/index.m3u8
+
+https://vavoo.to/play/2251241999/index.m3u8
 
 https://vavoo.to/play/2165549789/index.m3u8
 
@@ -16572,9 +16566,9 @@ https://vavoo.to/play/2895549551/index.m3u8
 
 https://vavoo.to/play/2002360508/index.m3u8
 
-https://vavoo.to/play/1902695925/index.m3u8
-
 https://vavoo.to/play/1806815496/index.m3u8
+
+https://vavoo.to/play/1902695925/index.m3u8
 
 https://vavoo.to/play/1421393119/index.m3u8
 
@@ -16594,23 +16588,23 @@ https://vavoo.to/play/500203271/index.m3u8
 
 https://vavoo.to/play/1235530177/index.m3u8
 
-https://vavoo.to/play/1228534500/index.m3u8
-
 https://vavoo.to/play/2330574729/index.m3u8
+
+https://vavoo.to/play/1228534500/index.m3u8
 
 https://vavoo.to/play/1078650168/index.m3u8
 
-https://vavoo.to/play/415795144/index.m3u8
-
 https://vavoo.to/play/3216516117/index.m3u8
+
+https://vavoo.to/play/415795144/index.m3u8
 
 https://vavoo.to/play/2890008905/index.m3u8
 
 https://vavoo.to/play/1281264885/index.m3u8
 
-https://vavoo.to/play/1820997555/index.m3u8
-
 https://vavoo.to/play/3060043751/index.m3u8
+
+https://vavoo.to/play/1820997555/index.m3u8
 
 https://vavoo.to/play/1759625738/index.m3u8
 
@@ -16646,9 +16640,9 @@ https://vavoo.to/play/525374356/index.m3u8
 
 https://vavoo.to/play/877200714/index.m3u8
 
-https://vavoo.to/play/153693434/index.m3u8
-
 https://vavoo.to/play/573618724/index.m3u8
+
+https://vavoo.to/play/153693434/index.m3u8
 
 https://vavoo.to/play/2416993844/index.m3u8
 
@@ -16662,17 +16656,17 @@ https://vavoo.to/play/3939513684/index.m3u8
 
 https://vavoo.to/play/3251217290/index.m3u8
 
-https://vavoo.to/play/3618643172/index.m3u8
-
 https://vavoo.to/play/4238969402/index.m3u8
+
+https://vavoo.to/play/3618643172/index.m3u8
 
 https://vavoo.to/play/1440779061/index.m3u8
 
 https://vavoo.to/play/2130255339/index.m3u8
 
-https://vavoo.to/play/1753260677/index.m3u8
-
 https://vavoo.to/play/1134113883/index.m3u8
+
+https://vavoo.to/play/1753260677/index.m3u8
 
 https://vavoo.to/play/836680112/index.m3u8
 
@@ -16686,9 +16680,9 @@ https://vavoo.to/play/3007400791/index.m3u8
 
 https://vavoo.to/play/2555960713/index.m3u8
 
-https://vavoo.to/play/449990998/index.m3u8
-
 https://vavoo.to/play/1665920101/index.m3u8
+
+https://vavoo.to/play/449990998/index.m3u8
 
 https://vavoo.to/play/4246774056/index.m3u8
 
@@ -16696,9 +16690,9 @@ https://vavoo.to/play/3093535330/index.m3u8
 
 https://vavoo.to/play/1989309231/index.m3u8
 
-https://vavoo.to/play/729945219/index.m3u8
-
 https://vavoo.to/play/3897711086/index.m3u8
+
+https://vavoo.to/play/729945219/index.m3u8
 
 https://vavoo.to/play/2066326916/index.m3u8
 
@@ -16716,9 +16710,9 @@ https://vavoo.to/play/2100771782/index.m3u8
 
 https://vavoo.to/play/78546677/index.m3u8
 
-https://vavoo.to/play/210669162/index.m3u8
-
 https://vavoo.to/play/3192996672/index.m3u8
+
+https://vavoo.to/play/210669162/index.m3u8
 
 https://vavoo.to/play/2289038972/index.m3u8
 
@@ -16728,9 +16722,9 @@ https://vavoo.to/play/3376031355/index.m3u8
 
 https://vavoo.to/play/318057128/index.m3u8
 
-https://vavoo.to/play/2130523218/index.m3u8
-
 https://vavoo.to/play/322024849/index.m3u8
+
+https://vavoo.to/play/2130523218/index.m3u8
 
 https://vavoo.to/play/2881739927/index.m3u8
 
@@ -16936,10 +16930,10 @@ https://vavoo.to/play/75666354/index.m3u8
 https://vavoo.to/play/3731631078/index.m3u8
 
 #EXTINF:-1 tvg-name="AT 5" group-title="Netherlands", AT 5
-https://vavoo.to/play/2629204497/index.m3u8
+https://vavoo.to/play/2607705349/index.m3u8
 
 #EXTINF:-1 tvg-name="AT 5" group-title="Netherlands", AT 5
-https://vavoo.to/play/2607705349/index.m3u8
+https://vavoo.to/play/2629204497/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Netherlands", BABY TV
 https://vavoo.to/play/3723054155/index.m3u8
@@ -16963,10 +16957,10 @@ https://vavoo.to/play/2959444159/index.m3u8
 https://vavoo.to/play/179283867/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Netherlands", CARTOONITO
-https://vavoo.to/play/2455610291/index.m3u8
+https://vavoo.to/play/3955498624/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Netherlands", CARTOONITO
-https://vavoo.to/play/3955498624/index.m3u8
+https://vavoo.to/play/2455610291/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS REALITY" group-title="Netherlands", CBS REALITY
 https://vavoo.to/play/1019029636/index.m3u8
@@ -17008,10 +17002,10 @@ https://vavoo.to/play/3127261334/index.m3u8
 https://vavoo.to/play/1106774151/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" group-title="Netherlands", DISCOVERY WORLD
-https://vavoo.to/play/226214567/index.m3u8
+https://vavoo.to/play/3081891203/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" group-title="Netherlands", DISCOVERY WORLD
-https://vavoo.to/play/3081891203/index.m3u8
+https://vavoo.to/play/226214567/index.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY CHANNEL" group-title="Netherlands", DISNEY CHANNEL
 https://vavoo.to/play/4053879/index.m3u8
@@ -17023,10 +17017,10 @@ https://vavoo.to/play/203464866/index.m3u8
 https://vavoo.to/play/2897120181/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Netherlands", DUCK TV
-https://vavoo.to/play/2149796005/index.m3u8
+https://vavoo.to/play/855410063/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Netherlands", DUCK TV
-https://vavoo.to/play/855410063/index.m3u8
+https://vavoo.to/play/2149796005/index.m3u8
 
 #EXTINF:-1 tvg-name="E!" group-title="Netherlands", E!
 https://vavoo.to/play/486015393/index.m3u8
@@ -17041,16 +17035,16 @@ https://vavoo.to/play/1484494458/index.m3u8
 https://vavoo.to/play/1397846137/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
-https://vavoo.to/play/405473735/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
 https://vavoo.to/play/351341225/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
-https://vavoo.to/play/625680503/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
+https://vavoo.to/play/405473735/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
 https://vavoo.to/play/697377561/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
+https://vavoo.to/play/625680503/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
 https://vavoo.to/play/2540436583/index.m3u8
@@ -17059,10 +17053,10 @@ https://vavoo.to/play/2540436583/index.m3u8
 https://vavoo.to/play/2612133641/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
-https://vavoo.to/play/74097556/index.m3u8
+https://vavoo.to/play/2736390217/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
-https://vavoo.to/play/2736390217/index.m3u8
+https://vavoo.to/play/74097556/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Netherlands", EUROSPORT 2
 https://vavoo.to/play/3837426329/index.m3u8
@@ -17077,10 +17071,10 @@ https://vavoo.to/play/330363772/index.m3u8
 https://vavoo.to/play/3322172799/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://vavoo.to/play/3637574983/index.m3u8
+https://vavoo.to/play/453029930/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://vavoo.to/play/453029930/index.m3u8
+https://vavoo.to/play/3637574983/index.m3u8
 
 #EXTINF:-1 tvg-name="FASHION TV" group-title="Netherlands", FASHION TV
 https://vavoo.to/play/1467439935/index.m3u8
@@ -17104,10 +17098,10 @@ https://vavoo.to/play/2143191607/index.m3u8
 https://vavoo.to/play/579287411/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Netherlands", FOX SPORTS 1
-https://vavoo.to/play/954079807/index.m3u8
+https://vavoo.to/play/3636633475/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Netherlands", FOX SPORTS 1
-https://vavoo.to/play/3636633475/index.m3u8
+https://vavoo.to/play/954079807/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Netherlands", FOX SPORTS 2
 https://vavoo.to/play/2674058579/index.m3u8
@@ -17215,10 +17209,10 @@ https://vavoo.to/play/1637398576/index.m3u8
 https://vavoo.to/play/2172927372/index.m3u8
 
 #EXTINF:-1 tvg-name="NET 5" group-title="Netherlands", NET 5
-https://vavoo.to/play/1784324088/index.m3u8
+https://vavoo.to/play/1751042276/index.m3u8
 
 #EXTINF:-1 tvg-name="NET 5" group-title="Netherlands", NET 5
-https://vavoo.to/play/1751042276/index.m3u8
+https://vavoo.to/play/1784324088/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK JR" group-title="Netherlands", NICK JR
 https://vavoo.to/play/2470622316/index.m3u8
@@ -17395,16 +17389,16 @@ https://vavoo.to/play/3100186970/index.m3u8
 https://vavoo.to/play/2323583211/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 4" group-title="Netherlands", RTL 4
-https://vavoo.to/play/4193182769/index.m3u8
-
-#EXTINF:-1 tvg-name="RTL 4" group-title="Netherlands", RTL 4
 https://vavoo.to/play/4226462509/index.m3u8
 
-#EXTINF:-1 tvg-name="RTL 5" group-title="Netherlands", RTL 5
-https://vavoo.to/play/3330972317/index.m3u8
+#EXTINF:-1 tvg-name="RTL 4" group-title="Netherlands", RTL 4
+https://vavoo.to/play/4193182769/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 5" group-title="Netherlands", RTL 5
 https://vavoo.to/play/3297693057/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL 5" group-title="Netherlands", RTL 5
+https://vavoo.to/play/3330972317/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 7" group-title="Netherlands", RTL 7
 https://vavoo.to/play/3159017981/index.m3u8
@@ -17584,10 +17578,10 @@ https://vavoo.to/play/2371823015/index.m3u8
 https://vavoo.to/play/2359432712/index.m3u8
 
 #EXTINF:-1 tvg-name="TV ORANJE" group-title="Netherlands", TV ORANJE
-https://vavoo.to/play/2864186713/index.m3u8
+https://vavoo.to/play/2174849927/index.m3u8
 
 #EXTINF:-1 tvg-name="TV ORANJE" group-title="Netherlands", TV ORANJE
-https://vavoo.to/play/2174849927/index.m3u8
+https://vavoo.to/play/2864186713/index.m3u8
 
 #EXTINF:-1 tvg-name="TV RIJNMOND" group-title="Netherlands", TV RIJNMOND
 https://vavoo.to/play/3269277667/index.m3u8
@@ -17686,10 +17680,10 @@ https://vavoo.to/play/739290895/index.m3u8
 https://vavoo.to/play/4022861107/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT VOETBAL" group-title="Netherlands", ZIGGO SPORT VOETBAL
-https://vavoo.to/play/23236113/index.m3u8
+https://vavoo.to/play/3586469911/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT VOETBAL" group-title="Netherlands", ZIGGO SPORT VOETBAL
-https://vavoo.to/play/3586469911/index.m3u8
+https://vavoo.to/play/23236113/index.m3u8
 
 #EXTINF:-1 tvg-name="ZUIDWEST TV" group-title="Netherlands", ZUIDWEST TV
 https://vavoo.to/play/3488575634/index.m3u8
@@ -23185,10 +23179,10 @@ https://vavoo.to/play/1633587820/index.m3u8
 https://vavoo.to/play/4093001640/index.m3u8
 
 #EXTINF:-1 tvg-name="AKIT TV" group-title="Turkey", AKIT TV
-https://vavoo.to/play/1948681011/index.m3u8
+https://vavoo.to/play/1862240206/index.m3u8
 
 #EXTINF:-1 tvg-name="AKIT TV" group-title="Turkey", AKIT TV
-https://vavoo.to/play/1862240206/index.m3u8
+https://vavoo.to/play/1948681011/index.m3u8
 
 #EXTINF:-1 tvg-name="AKIT TV (1)" group-title="Turkey", AKIT TV (1)
 https://vavoo.to/play/2702391715/index.m3u8
@@ -23338,10 +23332,10 @@ https://vavoo.to/play/154080342/index.m3u8
 https://vavoo.to/play/4096569454/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Turkey", BABY TV
-https://vavoo.to/play/4184865290/index.m3u8
+https://vavoo.to/play/3820420855/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Turkey", BABY TV
-https://vavoo.to/play/3820420855/index.m3u8
+https://vavoo.to/play/4184865290/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV HD (1)" group-title="Turkey", BABY TV HD (1)
 https://vavoo.to/play/2751658995/index.m3u8
@@ -23356,10 +23350,10 @@ https://vavoo.to/play/280573123/index.m3u8
 https://vavoo.to/play/58015509/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH" group-title="Turkey", BBC EARTH
-https://vavoo.to/play/2613731614/index.m3u8
+https://vavoo.to/play/2618455562/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH" group-title="Turkey", BBC EARTH
-https://vavoo.to/play/2618455562/index.m3u8
+https://vavoo.to/play/2613731614/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH HD (1)" group-title="Turkey", BBC EARTH HD (1)
 https://vavoo.to/play/2228496856/index.m3u8
@@ -23428,16 +23422,16 @@ https://vavoo.to/play/1322228068/index.m3u8
 https://vavoo.to/play/2485199152/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
-https://vavoo.to/play/2197747964/index.m3u8
-
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
 https://vavoo.to/play/942987224/index.m3u8
 
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
-https://vavoo.to/play/2120218356/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
+https://vavoo.to/play/2197747964/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
 https://vavoo.to/play/2244069093/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
+https://vavoo.to/play/2120218356/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Turkey", BEIN MOVIES STARS
 https://vavoo.to/play/1963748784/index.m3u8
@@ -23446,10 +23440,10 @@ https://vavoo.to/play/1963748784/index.m3u8
 https://vavoo.to/play/2500913164/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Turkey", BEIN MOVIES TURK
-https://vavoo.to/play/3390575948/index.m3u8
+https://vavoo.to/play/1835579025/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Turkey", BEIN MOVIES TURK
-https://vavoo.to/play/1835579025/index.m3u8
+https://vavoo.to/play/3390575948/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Turkey", BEIN SERIES 1
 https://vavoo.to/play/2190922298/index.m3u8
@@ -23524,10 +23518,10 @@ https://vavoo.to/play/3236362911/index.m3u8
 https://vavoo.to/play/3694662475/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Turkey", BEIN SPORTS 3
-https://vavoo.to/play/1797459602/index.m3u8
+https://vavoo.to/play/2834514943/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Turkey", BEIN SPORTS 3
-https://vavoo.to/play/2834514943/index.m3u8
+https://vavoo.to/play/1797459602/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD (1)" group-title="Turkey", BEIN SPORTS 3 HD (1)
 https://vavoo.to/play/1700595801/index.m3u8
@@ -23539,10 +23533,10 @@ https://vavoo.to/play/206371329/index.m3u8
 https://vavoo.to/play/3410167560/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://vavoo.to/play/3640906370/index.m3u8
+https://vavoo.to/play/450076655/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://vavoo.to/play/450076655/index.m3u8
+https://vavoo.to/play/3640906370/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 HD (1)" group-title="Turkey", BEIN SPORTS 4 HD (1)
 https://vavoo.to/play/1872232768/index.m3u8
@@ -23692,10 +23686,10 @@ https://vavoo.to/play/3652347263/index.m3u8
 https://vavoo.to/play/1020985035/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Turkey", BEYAZ TV
-https://vavoo.to/play/275850888/index.m3u8
+https://vavoo.to/play/3418237531/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Turkey", BEYAZ TV
-https://vavoo.to/play/3418237531/index.m3u8
+https://vavoo.to/play/275850888/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV FHD (1)" group-title="Turkey", BEYAZ TV FHD (1)
 https://vavoo.to/play/1600348811/index.m3u8
@@ -24088,10 +24082,10 @@ https://vavoo.to/play/3650386062/index.m3u8
 https://vavoo.to/play/999352745/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV" group-title="Turkey", DOST TV
-https://vavoo.to/play/896813028/index.m3u8
+https://vavoo.to/play/799884057/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV" group-title="Turkey", DOST TV
-https://vavoo.to/play/799884057/index.m3u8
+https://vavoo.to/play/896813028/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV (1)" group-title="Turkey", DOST TV (1)
 https://vavoo.to/play/3762421108/index.m3u8
@@ -24838,16 +24832,16 @@ https://vavoo.to/play/2093143206/index.m3u8
 https://vavoo.to/play/2802702453/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 68" group-title="Turkey", KANAL 68
-https://vavoo.to/play/4199982600/index.m3u8
-
-#EXTINF:-1 tvg-name="KANAL 68" group-title="Turkey", KANAL 68
 https://vavoo.to/play/563718875/index.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 7" group-title="Turkey", KANAL 7
-https://vavoo.to/play/3015649982/index.m3u8
+#EXTINF:-1 tvg-name="KANAL 68" group-title="Turkey", KANAL 68
+https://vavoo.to/play/4199982600/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" group-title="Turkey", KANAL 7
 https://vavoo.to/play/2842046019/index.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7" group-title="Turkey", KANAL 7
+https://vavoo.to/play/3015649982/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="Turkey", KANAL 7 AVRUPA
 https://vavoo.to/play/498645977/index.m3u8
@@ -24922,10 +24916,10 @@ https://vavoo.to/play/813831557/index.m3u8
 https://vavoo.to/play/847659673/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL V" group-title="Turkey", KANAL V
-https://vavoo.to/play/221540542/index.m3u8
+https://vavoo.to/play/401437763/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL V" group-title="Turkey", KANAL V
-https://vavoo.to/play/401437763/index.m3u8
+https://vavoo.to/play/221540542/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL Z" group-title="Turkey", KANAL Z
 https://vavoo.to/play/3525155138/index.m3u8
@@ -25036,10 +25030,10 @@ https://vavoo.to/play/1578872642/index.m3u8
 https://vavoo.to/play/3808834024/index.m3u8
 
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Turkey", KRAL TV
-https://vavoo.to/play/1505032467/index.m3u8
+https://vavoo.to/play/1131281902/index.m3u8
 
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Turkey", KRAL TV
-https://vavoo.to/play/1131281902/index.m3u8
+https://vavoo.to/play/1505032467/index.m3u8
 
 #EXTINF:-1 tvg-name="KRAL TV HD (1)" group-title="Turkey", KRAL TV HD (1)
 https://vavoo.to/play/2879812830/index.m3u8
@@ -25234,10 +25228,10 @@ https://vavoo.to/play/2175768896/index.m3u8
 https://vavoo.to/play/2608519906/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK" group-title="Turkey", MINIKA COCUK
-https://vavoo.to/play/4058432171/index.m3u8
+https://vavoo.to/play/1127812993/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK" group-title="Turkey", MINIKA COCUK
-https://vavoo.to/play/1127812993/index.m3u8
+https://vavoo.to/play/4058432171/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK (1)" group-title="Turkey", MINIKA COCUK (1)
 https://vavoo.to/play/3036231687/index.m3u8
@@ -25573,10 +25567,10 @@ https://vavoo.to/play/2898013627/index.m3u8
 https://vavoo.to/play/460410710/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" group-title="Turkey", S SPORT
-https://vavoo.to/play/3718336295/index.m3u8
+https://vavoo.to/play/3346549722/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" group-title="Turkey", S SPORT
-https://vavoo.to/play/3346549722/index.m3u8
+https://vavoo.to/play/3718336295/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Turkey", S SPORT 2
 https://vavoo.to/play/1234604880/index.m3u8
@@ -25687,10 +25681,10 @@ https://vavoo.to/play/2642935463/index.m3u8
 https://vavoo.to/play/3537232978/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://vavoo.to/play/1495761327/index.m3u8
+https://vavoo.to/play/2196278652/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://vavoo.to/play/2196278652/index.m3u8
+https://vavoo.to/play/1495761327/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW RADYO (1)" group-title="Turkey", SHOW RADYO (1)
 https://vavoo.to/play/3509899144/index.m3u8
@@ -26083,16 +26077,16 @@ https://vavoo.to/play/2565972338/index.m3u8
 https://vavoo.to/play/1528949791/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
-https://vavoo.to/play/478254799/index.m3u8
-
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
 https://vavoo.to/play/3746683810/index.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
-https://vavoo.to/play/568442751/index.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
+https://vavoo.to/play/478254799/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
 https://vavoo.to/play/3794924050/index.m3u8
+
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
+https://vavoo.to/play/568442751/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4" group-title="Turkey", TIVIBU SPOR 4
 https://vavoo.to/play/1343303170/index.m3u8
@@ -26218,10 +26212,10 @@ https://vavoo.to/play/4076672974/index.m3u8
 https://vavoo.to/play/2481339809/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Turkey", TRT BELGESEL
-https://vavoo.to/play/599757405/index.m3u8
+https://vavoo.to/play/2439012215/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Turkey", TRT BELGESEL
-https://vavoo.to/play/2439012215/index.m3u8
+https://vavoo.to/play/599757405/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL HD+ (1)" group-title="Turkey", TRT BELGESEL HD+ (1)
 https://vavoo.to/play/2661394868/index.m3u8
@@ -26293,10 +26287,10 @@ https://vavoo.to/play/433581315/index.m3u8
 https://vavoo.to/play/550045102/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://vavoo.to/play/2781429267/index.m3u8
+https://vavoo.to/play/2114335424/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR FHD (1)" group-title="Turkey", TRT SPOR FHD (1)
 https://vavoo.to/play/2952828245/index.m3u8
@@ -26308,10 +26302,10 @@ https://vavoo.to/play/312904614/index.m3u8
 https://vavoo.to/play/601788690/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Turkey", TRT SPOR YILDIZ
-https://vavoo.to/play/2081577417/index.m3u8
+https://vavoo.to/play/93054202/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Turkey", TRT SPOR YILDIZ
-https://vavoo.to/play/93054202/index.m3u8
+https://vavoo.to/play/2081577417/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD (1)" group-title="Turkey", TRT SPOR YILDIZ HD (1)
 https://vavoo.to/play/1423845809/index.m3u8
@@ -26515,10 +26509,10 @@ https://vavoo.to/play/3563562547/index.m3u8
 https://vavoo.to/play/1868001587/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Turkey", ULUSAL KANAL
-https://vavoo.to/play/885453469/index.m3u8
+https://vavoo.to/play/2249801655/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Turkey", ULUSAL KANAL
-https://vavoo.to/play/2249801655/index.m3u8
+https://vavoo.to/play/885453469/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL (1)" group-title="Turkey", ULUSAL KANAL (1)
 https://vavoo.to/play/1910048817/index.m3u8
@@ -26551,10 +26545,10 @@ https://vavoo.to/play/1098241076/index.m3u8
 https://vavoo.to/play/1183258440/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Turkey", VIASAT HISTORY
-https://vavoo.to/play/1900945213/index.m3u8
+https://vavoo.to/play/1515686371/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Turkey", VIASAT HISTORY
-https://vavoo.to/play/1515686371/index.m3u8
+https://vavoo.to/play/1900945213/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY HD+ (1)" group-title="Turkey", VIASAT HISTORY HD+ (1)
 https://vavoo.to/play/3480468962/index.m3u8
