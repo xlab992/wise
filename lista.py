@@ -31,15 +31,6 @@ def merger_playlist():
         # Rimuovi qualsiasi riga che inizia con '#EXTM3U'
         playlist = '\n'.join(line for line in playlist.split('\n') if not line.startswith('#EXTM3U'))
         
-        if append_params:
-            # Aggiungi i parametri agli URL di streaming nella playlist
-            playlist_lines = playlist.splitlines()
-            for i in range(len(playlist_lines)):
-                if '.m3u8' in playlist_lines[i]:  # Cerca i link .m3u8
-                    # Aggiungi i parametri alla fine del link
-                    playlist_lines[i] += "&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz"
-            playlist = '\n'.join(playlist_lines)
-        
         # Escludi canali con un determinato group-title
         if exclude_group_title:
             playlist = '\n'.join(line for line in playlist.split('\n') if exclude_group_title not in line)
