@@ -18,7 +18,7 @@ def merger_playlist():
     
     # Percorsi o URL delle playlist M3U8
     url1 = "channels_italy.m3u8"  # File locale
-    url2 = "eventi.m3u8"          # File locale
+    url2 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"   
     url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"  # Remoto
     url4 = "world.m3u8"           # File locale
     
@@ -219,7 +219,7 @@ def eventi_m3u8_generator():
                     server_key_data = response_key.json()
                     if 'server_key' in server_key_data:
                         server_key = server_key_data['server_key']
-                        stream_url = f"https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
+                        stream_url = f"https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
     
                         channel_cache[channel_id] = stream_url  # Salva nella cache
                         return stream_url
