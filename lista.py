@@ -16,47 +16,55 @@ def merger_playlist():
     import requests
     import os
     
-    # URL delle playlist M3U8, aggiungi MFP (se vuoi la lista gia proxyta) prima del link e cambia nome e repo nei link
-    url1 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/channels_italy.m3u8"
-    url2 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"
-    url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"
-    url4 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/world.m3u8"
+    # Percorsi o URL delle playlist M3U8
+    url1 = "channels_italy.m3u8"  # File locale
+    url2 = "eventi.m3u8"          # File locale
+    url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"  # Remoto
+    url4 = "world.m3u8"           # File locale
     
-    # Funzione per scaricare una playlist
-    def download_playlist(url, append_params=False, exclude_group_title=None):
-        response = requests.get(url)
-        response.raise_for_status()  # Se c'è un errore, solleva un'eccezione
-        playlist = response.text
+    # Funzione per scaricare o leggere una playlist
+    def download_playlist(source, append_params=False, exclude_group_title=None):
+        if source.startswith("http"):
+            response = requests.get(source)
+            response.raise_for_status()
+            playlist = response.text
+        else:
+            with open(source, 'r', encoding='utf-8') as f:
+                playlist = f.read()
         
-        # Rimuovi qualsiasi riga che inizia con '#EXTM3U'
+        # Rimuovi intestazione iniziale
         playlist = '\n'.join(line for line in playlist.split('\n') if not line.startswith('#EXTM3U'))
-        
-        # Escludi canali con un determinato group-title
+    
+        if append_params:
+            playlist_lines = playlist.splitlines()
+            for i in range(len(playlist_lines)):
+                if '.m3u8' in playlist_lines[i]:
+                    playlist_lines[i] += "&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz"
+            playlist = '\n'.join(playlist_lines)
+    
         if exclude_group_title:
             playlist = '\n'.join(line for line in playlist.split('\n') if exclude_group_title not in line)
-        
+    
         return playlist
     
     # Ottieni la directory dove si trova lo script
     script_directory = os.path.dirname(os.path.abspath(__file__))
     
-    # Scarica le playlist
+    # Scarica/leggi le playlist
     playlist1 = download_playlist(url1)
-    playlist2 = download_playlist(url2, append_params=True)  # Aggiungi i parametri alla playlist eventi.m3u8
+    playlist2 = download_playlist(url2, append_params=True)
     playlist3 = download_playlist(url3)
-    playlist4 = download_playlist(url4, exclude_group_title="Italy")  # Escludi i canali con group-title="Italy"
+    playlist4 = download_playlist(url4, exclude_group_title="Italy")
     
-    # Unisci le quattro playlist
+    # Unisci le playlist
     lista = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4
     
-    # Aggiungi il nuovo #EXTM3U tvg-url all'inizio della playlist combinata
+    # Aggiungi intestazione EPG
     lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"\n' + lista
     
-    # Percorso completo del file di output
+    # Salva la playlist
     output_filename = os.path.join(script_directory, "lista.m3u")
-    
-    # Salva la playlist combinata
-    with open(output_filename, 'w') as file:
+    with open(output_filename, 'w', encoding='utf-8') as file:
         file.write(lista)
     
     print(f"Playlist combinata salvata in: {output_filename}")
@@ -218,7 +226,7 @@ def eventi_m3u8_generator():
                     server_key_data = response_key.json()
                     if 'server_key' in server_key_data:
                         server_key = server_key_data['server_key']
-                        stream_url = f"https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
+                        stream_url = f"https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
     
                         channel_cache[channel_id] = stream_url  # Salva nella cache
                         return stream_url
@@ -734,7 +742,7 @@ def vavoo_italy_channels():
                     tvg_id = channel_id_map.get(normalized_name, "")
                     tvg_logo = logos_dict.get(tvg_name_cleaned.lower(), DEFAULT_TVG_ICON)
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name_cleaned}" tvg-logo="{tvg_logo}" group-title="{category}", {name}\n')
-                    f.write(f"{url}\n\n")
+                    f.write(f"https://nzo66-piccolotest.hf.space/proxy/m3u?url={url}\n\n")
     
     def main():
         epg_root = fetch_epg(EPG_FILE)
@@ -808,7 +816,7 @@ def world_channels_generator():
     
                 for name, url in grouped_channels[country]:
                     f.write(f'#EXTINF:-1 tvg-name="{name}" group-title="{country}", {name}\n')
-                    f.write(f"{url}\n\n")
+                    f.write(f"https://nzo66-piccolotest.hf.space/proxy/m3u?url={url}\n\n")
     
     # Funzione principale
     def main():
