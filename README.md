@@ -18,3 +18,9 @@ cosa modificare:
 
 2️⃣sostituisci https://raw.githubusercontent.com/realbestia/itatv/refs/heads/main/epg.xml con il link del vostro file Forkato 
 
+---
+
+Adesso Potete avviare Github Action e far partire lo script 
+
+ricorda di dare i permessi del repo a Github Action 
+
