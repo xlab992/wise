@@ -219,7 +219,7 @@ def eventi_m3u8_generator():
                     server_key_data = response_key.json()
                     if 'server_key' in server_key_data:
                         server_key = server_key_data['server_key']
-                        stream_url = f"https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz"
+                        stream_url = f"https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
     
                         channel_cache[channel_id] = stream_url  # Salva nella cache
                         return stream_url
@@ -296,7 +296,7 @@ def eventi_m3u8_generator():
     
                         for channel in event["channels"]:
                             m3u8_content += f"#EXTINF:-1 tvg-id=\"{channel['channel_id']}\" tvg-name=\"{tvg_name}\" group-title=\"Eventi\" tvg-logo=\"\", {tvg_name}\n"
-                            m3u8_content += f"{channel['stream_url']}\n"
+                            m3u8_content += f"https://nzo66-piccolotest.hf.space/proxy/m3u?url={channel['stream_url']}&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz\n"
     
         return m3u8_content
     
