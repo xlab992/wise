@@ -14,9 +14,9 @@ Se create voi un proxy allora dovete fare il Fork di questa repo e modificare ap
 
 cosa modificare:
 
-1️⃣sostituisci "https://nzo66-piccolotest.hf.space" con il vostro url di HuggingFace o Render
+1️⃣ sostituisci "https://nzo66-piccolotest.hf.space" con il vostro url di HuggingFace o Render
 
-2️⃣sostituisci https://raw.githubusercontent.com/realbestia/itatv/refs/heads/main/epg.xml con il link del vostro file Forkato 
+2️⃣ cercate questo link https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml e modificare "nzo66/TV" con il nome del vostro github e nome del fork  
 
 ---
 
