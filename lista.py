@@ -225,7 +225,7 @@ def eventi_m3u8_generator():
                     server_key_data = response_key.json()
                     if 'server_key' in server_key_data:
                         server_key = server_key_data['server_key']
-                        stream_url = f"https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://{server_key}new.newkso.ru/{server_key}/premium{channel_id}/mono.m3u8"
+                        stream_url = f"https://nzo66-piccolotest.hf.space/proxy/m3u?url=https%3A%2F%2{server_key}new.newkso.ru%2F{server_key}%2Fpremium{channel_id}%2Fmono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Filovetoplay.xyz%2F&h_origin=https%3A%2F%2Filovetoplay.xyz"
     
                         channel_cache[channel_id] = stream_url  # Salva nella cache
                         return stream_url
