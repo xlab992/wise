@@ -18,7 +18,7 @@ def merger_playlist():
     
     # Percorsi o URL delle playlist M3U8
     url1 = "channels_italy.m3u8"  # File locale
-    url2 = "https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/eventi.m3u8"   
+    url2 = "eventi.m3u8"   
     url3 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"  # Remoto
     url4 = "world.m3u8"           # File locale
     
