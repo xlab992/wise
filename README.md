@@ -10,7 +10,7 @@ link del Proxy: https://github.com/nzo66/tvproxy
 
 ---
 
-Se create voi un proxy allora dovete fare il Fork di questa repo e modificare app.py
+Se create voi un proxy allora dovete fare il Fork di questa repo e modificare lista.py
 
 cosa modificare:
 
