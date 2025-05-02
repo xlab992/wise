@@ -756,22 +756,6 @@ def vavoo_italy_channels():
     if __name__ == "__main__":
         main()
     
-    # Funzione principale
-    def main():
-        all_channels = []
-        for url in BASE_URLS:
-            channels = fetch_channels(url)
-            for ch in channels:
-                clean_name = clean_channel_name(ch["name"])
-                country = ch.get("country", "Unknown")  # Estrai la nazione del canale, default è "Unknown"
-                all_channels.append((clean_name, f"{url}/play/{ch['id']}/index.m3u8", country))
-    
-        save_m3u8(all_channels)
-        print(f"File {OUTPUT_FILE} creato con successo!")
-    
-    if __name__ == "__main__":
-        main()
-
 def remover():
     import os
     
