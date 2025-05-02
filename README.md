@@ -14,7 +14,7 @@ Se create voi un proxy allora dovete fare il Fork di questa repo e modificare ap
 
 cosa modificare:
 
-1️⃣ sostituisci "https://nzo66-piccolotest.hf.space" con il vostro url di HuggingFace o Render
+1️⃣ sostituisci "https://nzo66-piccolotest.hf.space" con il vostro url di HuggingFace, Render o altro se fate self host
 
 2️⃣ cercate questo link https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml e modificare "nzo66/TV" con il nome del vostro github e nome del fork  
 
