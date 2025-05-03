@@ -4,7 +4,7 @@ Benvenuto nel tuo setup personalizzabile di **lista IPTV** con **EPG**, supporta
 
 ---
 
-## 🔗 Link principali
+## 🔗 Lista gia' pronta
 
 - **Lista M3U**:  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
