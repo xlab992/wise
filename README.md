@@ -67,8 +67,6 @@ Modifica anche questo:
 https://tuoproxy.hf.space/proxy/hls/manifest.m3u8?api_password=miaPassword&d=
 ```
 
-#### 3️⃣ Modifica degli Header
-
 Nel file `lista.py`, alla **riga 297**, cerca:
 
 ```text
