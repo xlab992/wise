@@ -6,7 +6,7 @@ Benvenuto nel tuo setup personalizzabile di **lista IPTV** con **EPG**, supporta
 
 ## 🔗 Lista gia' pronta
 
-Queste liste utilizzano un proxy ospitato su HuggingFace Spaces. Se il proxy non funziona o vuoi avere il tuo, puoi:
+Queste liste utilizzano un proxy ospitato su HuggingFace Spaces.
 
 - **Lista M3U**:  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
@@ -17,6 +17,8 @@ Queste liste utilizzano un proxy ospitato su HuggingFace Spaces. Se il proxy non
 ---
 
 ## 🧩 Funzionamento con Proxy
+
+Se il proxy non funziona o vuoi avere il tuo, puoi:
 
 ### ✅ Creare il tuo proxy personalizzato:
 
