@@ -81,7 +81,7 @@ E sostituisci **tutti i `header_`** con `h_`, ad esempio:
 
 #### 3️⃣ URL dell’EPG
 
-Cerca questo link:
+Cerca questo link (sempre nel file lista.py):
 
 ```
 https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml
