@@ -67,7 +67,7 @@ Modifica anche questo:
 https://tuoproxy.hf.space/proxy/hls/manifest.m3u8?api_password=miaPassword&d=
 ```
 
-Nel file `lista.py`, alla **riga 297**, cerca:
+Nella stessa riga, cerca:
 
 ```text
 &header_user-agent=...&header_referer=...&header_origin=...
