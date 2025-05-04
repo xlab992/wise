@@ -67,18 +67,6 @@ Modifica anche questo:
 https://tuoproxy.hf.space/proxy/hls/manifest.m3u8?api_password=miaPassword&d=
 ```
 
-Nella stessa riga, cerca:
-
-```text
-&header_user-agent=...&header_referer=...&header_origin=...
-```
-
-E sostituisci **tutti i `header_`** con `h_`, ad esempio:
-
-```text
-&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-```
-
 #### 3️⃣ URL dell’EPG
 
 Cerca questo link (sempre nel file lista.py):
