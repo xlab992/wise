@@ -2963,6 +2963,18 @@
                 ]
             }
         ],
+        "Futsal</span>": [
+            {
+                "time": "18:00",
+                "event": "Croatia HMNL : Mnk Novo Vrijeme Makarska vs. Mnk Crnica",
+                "channels": [
+                    {
+                        "channel_name": "Max Sport 1 Croatia HD",
+                        "channel_id": "779"
+                    }
+                ]
+            }
+        ],
         "Handball</span>": [
             {
                 "time": "16:30",
