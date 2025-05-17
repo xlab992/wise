@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xlab992/wise/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/875922788/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1225653759/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1939210164/index.m3u8
@@ -28,16 +28,16 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2049087681/index.m3u8
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3163380543/index.m3u8
-
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5 (2)
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3249873828/index.m3u8
 
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5 (2)
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3163380543/index.m3u8
+
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1803677691/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1901652742/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai", RAI ITALIA
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/374675593/index.m3u8
@@ -46,22 +46,22 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1925964148/index.m3u8
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2835672487/index.m3u8
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2272923972/index.m3u8
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1925964148/index.m3u8
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2239645272/index.m3u8
 
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2272923972/index.m3u8
+
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2828455552/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2861734300/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1886684667/index.m3u8
@@ -145,10 +145,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2911178456/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1376440573/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3481346857/index.m3u8
@@ -193,10 +193,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/449990998/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1665920101/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/4246774056/index.m3u8
@@ -319,10 +319,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1144128726/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3812796171/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2242741766/index.m3u8
@@ -376,10 +376,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1492183364/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1944682394/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/4272937805/index.m3u8
@@ -418,10 +418,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3137990890/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4 (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2416993844/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2909818756/index.m3u8
@@ -436,10 +436,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/4238969402/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3618643172/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7 (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3618643172/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1440779061/index.m3u8
@@ -502,10 +502,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1289777017/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1744435623/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1987220436/index.m3u8
@@ -556,22 +556,22 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2651461317/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1574591400/index.m3u8
 
-#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/317837654/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2651461317/index.m3u8
 
-#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
+#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2134724757/index.m3u8
 
+#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/317837654/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/179844839/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1735702308/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1735702308/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/179844839/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3428501495/index.m3u8
@@ -760,10 +760,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/64060922/index.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro", COMEDY CENTRAL
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3658277450/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/433893159/index.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro", COMEDY CENTRAL (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/433893159/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3658277450/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro", COMPANY TV
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1322483308/index.m3u8
@@ -778,10 +778,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3156092639/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro", DMAX
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3803638765/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro", DMAX (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3008151733/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3803638765/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro", ELIVE TV BRESCIA
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/1521821490/index.m3u8
@@ -1174,10 +1174,10 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2706291008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2202937518/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3845119578/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV QUI" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro", TV QUI (2)
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/3845119578/index.m3u8
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2202937518/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV YES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv-yes-it.png?raw=true" group-title="Altro", TV YES
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://vavoo.to/play/2569530225/index.m3u8
@@ -1236,16 +1236,6 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 
 #EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
 http://example.com/Soccer.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="Italy - Serie B : Juve Stabia vs Palermo - 17/05/2025 19:30" group-title="Eventi" tvg-logo="", Italy - Serie B : Juve Stabia vs Palermo - 17/05/2025 19:30
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium177/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="23" tvg-name="Italy - Serie C : Triestina vs Caldiero Terme - 17/05/2025 20:00" group-title="Eventi" tvg-logo="", Italy - Serie C : Triestina vs Caldiero Terme - 17/05/2025 20:00
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="162" tvg-name="Italy - Serie C : SPAL vs Milan II - 17/05/2025 20:00" group-title="Eventi" tvg-logo="", Italy - Serie C : SPAL vs Milan II - 17/05/2025 20:00
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium162/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="870" tvg-name="Italy - Serie C : SPAL vs Milan II - 17/05/2025 20:00" group-title="Eventi" tvg-logo="", Italy - Serie C : SPAL vs Milan II - 17/05/2025 20:00
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-id="24" tvg-name="Italy - Serie C : Lucchese vs Sestri Levante - 17/05/2025 20:00" group-title="Eventi" tvg-logo="", Italy - Serie C : Lucchese vs Sestri Levante - 17/05/2025 20:00
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="25" tvg-name="Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30" group-title="Eventi" tvg-logo="", Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="882" tvg-name="Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30" group-title="Eventi" tvg-logo="", Italy - Serie C : Calcio Padova vs Virtus Entella - 17/05/2025 20:30
@@ -1256,6 +1246,78 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 http://example.com/Climbing.m3u8
 #EXTINF:-1 tvg-id="878" tvg-name="World Cup Curitiba | Boulder | Men's Final - 17/05/2025 22:00" group-title="Eventi" tvg-logo="", World Cup Curitiba | Boulder | Men's Final - 17/05/2025 22:00
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Soccer -----" group-title="Eventi", ----- Soccer -----
+http://example.com/Soccer.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Everton vs Southampton - 18/05/2025 13:00" group-title="Eventi" tvg-logo="", England - Premier League : Everton vs Southampton - 18/05/2025 13:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : West Ham United vs Nottingham Forest - 18/05/2025 15:15" group-title="Eventi" tvg-logo="", England - Premier League : West Ham United vs Nottingham Forest - 18/05/2025 15:15
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="28" tvg-name="England - Premier League : Leicester City vs Ipswich Town - 18/05/2025 16:00" group-title="Eventi" tvg-logo="", England - Premier League : Leicester City vs Ipswich Town - 18/05/2025 16:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="6" tvg-name="Italy - Serie C : Crotone vs Vicenza - 18/05/2025 16:00" group-title="Eventi" tvg-logo="", Italy - Serie C : Crotone vs Vicenza - 18/05/2025 16:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="870" tvg-name="England - Premier League : Arsenal vs Newcastle United - 18/05/2025 17:30" group-title="Eventi" tvg-logo="", England - Premier League : Arsenal vs Newcastle United - 18/05/2025 17:30
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="460" tvg-name="England - Premier League : Arsenal vs Newcastle United - 18/05/2025 17:30" group-title="Eventi" tvg-logo="", England - Premier League : Arsenal vs Newcastle United - 18/05/2025 17:30
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="28" tvg-name="Italy - Serie C : Atalanta II vs Audace Cerignola - 18/05/2025 18:15" group-title="Eventi" tvg-logo="", Italy - Serie C : Atalanta II vs Audace Cerignola - 18/05/2025 18:15
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="882" tvg-name="Italy - Serie C : Atalanta II vs Audace Cerignola - 18/05/2025 18:15" group-title="Eventi" tvg-logo="", Italy - Serie C : Atalanta II vs Audace Cerignola - 18/05/2025 18:15
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="26" tvg-name="Italy - Serie C : Vis Pesaro vs Pescara - 18/05/2025 18:15" group-title="Eventi" tvg-logo="", Italy - Serie C : Vis Pesaro vs Pescara - 18/05/2025 18:15
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="27" tvg-name="Italy - Serie C : Giana Erminio vs Ternana - 18/05/2025 18:15" group-title="Eventi" tvg-logo="", Italy - Serie C : Giana Erminio vs Ternana - 18/05/2025 18:15
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium27/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="105" tvg-name="Italy - Serie A : Cagliari vs Venezia - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Cagliari vs Venezia - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="107" tvg-name="Italy - Serie A : Fiorentina vs Bologna - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Fiorentina vs Bologna - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="108" tvg-name="Italy - Serie A : Hellas Verona vs Como - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Hellas Verona vs Como - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="109" tvg-name="Italy - Serie A : Internazionale vs Lazio - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Internazionale vs Lazio - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="110" tvg-name="Italy - Serie A : Juventus vs Udinese - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Juventus vs Udinese - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="152" tvg-name="Italy - Serie A : Lecce vs Torino - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Lecce vs Torino - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="153" tvg-name="Italy - Serie A : Monza vs Empoli - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Monza vs Empoli - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Parma vs Napoli - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Parma vs Napoli - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="154" tvg-name="Italy - Serie A : Roma vs Milan - 18/05/2025 20:45" group-title="Eventi" tvg-logo="", Italy - Serie A : Roma vs Milan - 18/05/2025 20:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi", ----- Motorsport -----
+http://example.com/Motorsport.m3u8
+#EXTINF:-1 tvg-id="878" tvg-name="Formula E Tokyo | Race - 18/05/2025 08:05" group-title="Eventi" tvg-logo="", Formula E Tokyo | Race - 18/05/2025 08:05
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : AWS Emilia Romagna GP - Race - 18/05/2025 08:30" group-title="Eventi" tvg-logo="", Formula 3 : AWS Emilia Romagna GP - Race - 18/05/2025 08:30
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : AWS Emilia Romagna GP - Race - 18/05/2025 10:00" group-title="Eventi" tvg-logo="", Formula 2 : AWS Emilia Romagna GP - Race - 18/05/2025 10:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Grand Prix Sunday - 18/05/2025 14:00" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Grand Prix Sunday - 18/05/2025 14:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Race - 18/05/2025 15:00" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Race - 18/05/2025 15:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Basketball -----" group-title="Eventi", ----- Basketball -----
+http://example.com/Basketball.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="Serie A1 Men Final : Virtus Segafredo Bologna vs Umana Reyer Venezia - 18/05/2025 18:00" group-title="Eventi" tvg-logo="", Serie A1 Men Final : Virtus Segafredo Bologna vs Umana Reyer Venezia - 18/05/2025 18:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Cycling -----" group-title="Eventi", ----- Cycling -----
+http://example.com/Cycling.m3u8
+#EXTINF:-1 tvg-id="851" tvg-name="Giro d'Italia | Stage 9 | Multi-Screen Men | Gubbio – Siena (181km) - 18/05/2025 13:00" group-title="Eventi" tvg-logo="", Giro d'Italia | Stage 9 | Multi-Screen Men | Gubbio – Siena (181km) - 18/05/2025 13:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 9 | Multi-Screen Men | Gubbio – Siena (181km) - 18/05/2025 13:00" group-title="Eventi" tvg-logo="", Giro d'Italia | Stage 9 | Multi-Screen Men | Gubbio – Siena (181km) - 18/05/2025 13:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-id="879" tvg-name="UCI Downhill World Cup | Men Elite | Bielsko Biala WHOOP UCI Mountain Bike World Series - 18/05/2025 14:00" group-title="Eventi" tvg-logo="", UCI Downhill World Cup | Men Elite | Bielsko Biala WHOOP UCI Mountain Bike World Series - 18/05/2025 14:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium879/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Climbing -----" group-title="Eventi", ----- Climbing -----
+http://example.com/Climbing.m3u8
+#EXTINF:-1 tvg-id="878" tvg-name="World Cup | Women Curitiba | Bouldering | Final - 18/05/2025 22:00" group-title="Eventi" tvg-logo="", World Cup | Women Curitiba | Bouldering | Final - 18/05/2025 22:00
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
+#EXTINF:-1 tvg-name="----- Equestrian -----" group-title="Eventi", ----- Equestrian -----
+http://example.com/Equestrian.m3u8
+#EXTINF:-1 tvg-id="879" tvg-name="Global Champions Tour Jumping | Madrid - 18/05/2025 16:45" group-title="Eventi" tvg-logo="", Global Champions Tour Jumping | Madrid - 18/05/2025 16:45
+https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium879/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
