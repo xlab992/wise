@@ -1254,8 +1254,6 @@ https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https:/
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi", ----- Motorsport -----
 http://example.com/Motorsport.m3u8
-#EXTINF:-1 tvg-id="878" tvg-name="Formula E Tokyo | Race 1 Round 8 - 17/05/2025 08:05" group-title="Eventi" tvg-logo="", Formula E Tokyo | Race 1 Round 8 - 17/05/2025 08:05
-https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : AWS Emilia Romagna GP - Sprint Race - 17/05/2025 10:00" group-title="Eventi" tvg-logo="", Formula 3 : AWS Emilia Romagna GP - Sprint Race - 17/05/2025 10:00
 https://xlab992-bb1.hf.space//proxy/hls/manifest.m3u8?api_password=gf4&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Practice 3 - 17/05/2025 12:30" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Practice 3 - 17/05/2025 12:30
